@@ -1,0 +1,3101 @@
+"specimen_id"	"cell_type_name"	"percent_live_cell"
+820	"Activated B cells (ABCs)"	0.15
+820	"Activated granulocytes"	0.00786
+820	"ASCs (Plasmablasts)"	0.00692
+820	"Basophils"	0.48
+820	"Bcells"	5.68
+820	"B cells (CD19+CD20+CD3-CD14-CD56-)"	5.63
+820	"B cells (CD19+CD3-CD14-CD56-)"	5.67
+820	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.011
+820	"CD19-CD3-"	25.2
+820	"CD19+ CD3-"	5.7
+820	"CD3CD19"	0.061
+820	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.086
+820	"CD3-CD19-CD56- cells"	19.5
+820	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.03
+820	"CD3CD19neg"	69
+820	"CD3 Tcells"	66.3
+820	"CD4+CD8+ T cells"	0.31
+820	"CD4-CD8- T cells"	3.21
+820	"CD4Tcells"	42.8
+820	"CD56+ CD3high T cells"	1.54
+820	"CD56+CD3+T cells"	0.82
+820	"CD56high NK cells"	0.53
+820	"CD8Tcells"	19.4
+820	"cDC1"	0.014
+820	"cDC2"	0.76
+820	"Classical_Monocytes"	12.8
+820	"Conventional dendritic cells (cDCs)"	0.84
+820	"Intermediate_Monocytes"	0.38
+820	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	1.53
+820	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.04
+820	"MB doublets (CD19+CD14+)"	0.012
+820	"Memory B cells"	0.63
+820	"Monocytes"	17.3
+820	"Naive B cells"	4.86
+820	"NaiveCD4"	24.8
+820	"NaiveCD8"	13.8
+820	"NK"	4.93
+820	"NK cells (CD3-CD19-CD56+)"	5.46
+820	"Non-Classical_Monocytes"	2.06
+820	"non-pDCs"	0.93
+820	"pDC"	0.7
+820	"Proliferating B cells"	0.16
+820	"T cells (CD19-CD3+CD14-)"	68.9
+820	"TcmCD4"	15.8
+820	"TcmCD8"	1.69
+820	"TemCD4"	2.05
+820	"TemCD8"	1.12
+820	"TemraCD4"	0.17
+820	"TemraCD8"	2.83
+820	"T:M doublets (CD19-CD3+CD14+)"	0.16
+850	"Activated B cells (ABCs)"	0.12
+850	"Activated granulocytes"	0.037
+850	"ASCs (Plasmablasts)"	0.021
+850	"Basophils"	0.4
+850	"Bcells"	1.91
+850	"B cells (CD19+CD20+CD3-CD14-CD56-)"	1.87
+850	"B cells (CD19+CD3-CD14-CD56-)"	1.91
+850	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00722
+850	"CD19-CD3-"	23.5
+850	"CD19+ CD3-"	1.92
+850	"CD3CD19"	0.018
+850	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.18
+850	"CD3-CD19-CD56- cells"	15.5
+850	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.3
+850	"CD3CD19neg"	74.5
+850	"CD3 Tcells"	72.9
+850	"CD4+CD8+ T cells"	0.16
+850	"CD4-CD8- T cells"	2.29
+850	"CD4Tcells"	49.4
+850	"CD56+ CD3high T cells"	0.56
+850	"CD56+CD3+T cells"	0.87
+850	"CD56high NK cells"	0.62
+850	"CD8Tcells"	20.7
+850	"cDC1"	0.00222
+850	"cDC2"	0.54
+850	"Classical_Monocytes"	8.43
+850	"Conventional dendritic cells (cDCs)"	0.6
+850	"Intermediate_Monocytes"	0.34
+850	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.2
+850	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.77
+850	"MB doublets (CD19+CD14+)"	0.00889
+850	"Memory B cells"	0.3
+850	"Monocytes"	11.2
+850	"Naive B cells"	1.45
+850	"NaiveCD4"	36.1
+850	"NaiveCD8"	15.7
+850	"NK"	7.13
+850	"NK cells (CD3-CD19-CD56+)"	7.73
+850	"Non-Classical_Monocytes"	1.06
+850	"non-pDCs"	0.78
+850	"pDC"	0.29
+850	"Proliferating B cells"	0.15
+850	"T cells (CD19-CD3+CD14-)"	74.4
+850	"TcmCD4"	10.2
+850	"TcmCD8"	0.54
+850	"TemCD4"	2.9
+850	"TemCD8"	2.63
+850	"TemraCD4"	0.22
+850	"TemraCD8"	1.85
+850	"T:M doublets (CD19-CD3+CD14+)"	0.075
+781	"Activated B cells (ABCs)"	0.12
+781	"Activated granulocytes"	0.023
+781	"ASCs (Plasmablasts)"	0.025
+781	"Basophils"	1.02
+781	"Bcells"	4.39
+781	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.33
+781	"B cells (CD19+CD3-CD14-CD56-)"	4.38
+781	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00692
+781	"CD19-CD3-"	46
+781	"CD19+ CD3-"	4.4
+781	"CD3CD19"	0.018
+781	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.077
+781	"CD3-CD19-CD56- cells"	25.1
+781	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.11
+781	"CD3CD19neg"	49.6
+781	"CD3 Tcells"	43.4
+781	"CD4+CD8+ T cells"	0.16
+781	"CD4-CD8- T cells"	3.78
+781	"CD4Tcells"	27.9
+781	"CD56+ CD3high T cells"	3.55
+781	"CD56+CD3+T cells"	1.75
+781	"CD56high NK cells"	0.37
+781	"CD8Tcells"	11.1
+781	"cDC1"	0.00403
+781	"cDC2"	0.4
+781	"Classical_Monocytes"	19.4
+781	"Conventional dendritic cells (cDCs)"	0.4
+781	"Intermediate_Monocytes"	0.54
+781	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.63
+781	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.58
+781	"MB doublets (CD19+CD14+)"	0.013
+781	"Memory B cells"	0.58
+781	"Monocytes"	22.5
+781	"Naive B cells"	3.63
+781	"NaiveCD4"	17.4
+781	"NaiveCD8"	9.11
+781	"NK"	20.1
+781	"NK cells (CD3-CD19-CD56+)"	20.6
+781	"Non-Classical_Monocytes"	1.34
+781	"non-pDCs"	0.48
+781	"pDC"	0.34
+781	"Proliferating B cells"	0.15
+781	"T cells (CD19-CD3+CD14-)"	49.5
+781	"TcmCD4"	7.62
+781	"TcmCD8"	0.66
+781	"TemCD4"	2.83
+781	"TemCD8"	0.49
+781	"TemraCD4"	0.07
+781	"TemraCD8"	0.87
+781	"T:M doublets (CD19-CD3+CD14+)"	0.067
+839	"Activated B cells (ABCs)"	0.16
+839	"Activated granulocytes"	0.018
+839	"ASCs (Plasmablasts)"	0.016
+839	"Basophils"	1.05
+839	"Bcells"	5.5
+839	"B cells (CD19+CD20+CD3-CD14-CD56-)"	5.46
+839	"B cells (CD19+CD3-CD14-CD56-)"	5.49
+839	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00937
+839	"CD19-CD3-"	21.3
+839	"CD19+ CD3-"	5.51
+839	"CD3CD19"	0.016
+839	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.18
+839	"CD3-CD19-CD56- cells"	13.3
+839	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.76
+839	"CD3CD19neg"	73.1
+839	"CD3 Tcells"	72.2
+839	"CD4+CD8+ T cells"	0.12
+839	"CD4-CD8- T cells"	3.65
+839	"CD4Tcells"	53.7
+839	"CD56+ CD3high T cells"	0.4
+839	"CD56+CD3+T cells"	0.38
+839	"CD56high NK cells"	0.97
+839	"CD8Tcells"	14.3
+839	"cDC1"	0.00562
+839	"cDC2"	0.8
+839	"Classical_Monocytes"	7.04
+839	"Conventional dendritic cells (cDCs)"	0.84
+839	"Intermediate_Monocytes"	0.32
+839	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.16
+839	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.1
+839	"MB doublets (CD19+CD14+)"	0.00999
+839	"Memory B cells"	0.83
+839	"Monocytes"	9.83
+839	"Naive B cells"	4.45
+839	"NaiveCD4"	37.4
+839	"NaiveCD8"	11.3
+839	"NK"	6.87
+839	"NK cells (CD3-CD19-CD56+)"	7.71
+839	"Non-Classical_Monocytes"	0.68
+839	"non-pDCs"	1.02
+839	"pDC"	0.38
+839	"Proliferating B cells"	0.18
+839	"T cells (CD19-CD3+CD14-)"	73.1
+839	"TcmCD4"	12.9
+839	"TcmCD8"	0.71
+839	"TemCD4"	3.32
+839	"TemCD8"	1.23
+839	"TemraCD4"	0.11
+839	"TemraCD8"	1.02
+839	"T:M doublets (CD19-CD3+CD14+)"	0.041
+732	"Activated B cells (ABCs)"	0.13
+732	"Activated granulocytes"	0.017
+732	"ASCs (Plasmablasts)"	0.041
+732	"Basophils"	0.95
+732	"Bcells"	4.81
+732	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.74
+732	"B cells (CD19+CD3-CD14-CD56-)"	4.8
+732	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00732
+732	"CD19-CD3-"	47.1
+732	"CD19+ CD3-"	4.82
+732	"CD3CD19"	0.043
+732	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.14
+732	"CD3-CD19-CD56- cells"	30.3
+732	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.71
+732	"CD3CD19neg"	48.1
+732	"CD3 Tcells"	45.3
+732	"CD4+CD8+ T cells"	0.14
+732	"CD4-CD8- T cells"	7.37
+732	"CD4Tcells"	22
+732	"CD56+ CD3high T cells"	0.96
+732	"CD56+CD3+T cells"	1.35
+732	"CD56high NK cells"	0.68
+732	"CD8Tcells"	15.1
+732	"cDC1"	0.00645
+732	"cDC2"	0.89
+732	"Classical_Monocytes"	14.1
+732	"Conventional dendritic cells (cDCs)"	0.98
+732	"Intermediate_Monocytes"	0.79
+732	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	7.17
+732	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	6.2
+732	"MB doublets (CD19+CD14+)"	0.012
+732	"Memory B cells"	1.01
+732	"Monocytes"	21
+732	"Naive B cells"	3.55
+732	"NaiveCD4"	13.4
+732	"NaiveCD8"	10.2
+732	"NK"	15.2
+732	"NK cells (CD3-CD19-CD56+)"	15.9
+732	"Non-Classical_Monocytes"	3.28
+732	"non-pDCs"	1.14
+732	"pDC"	1.23
+732	"Proliferating B cells"	0.17
+732	"T cells (CD19-CD3+CD14-)"	48
+732	"TcmCD4"	6.41
+732	"TcmCD8"	0.99
+732	"TemCD4"	2.08
+732	"TemCD8"	1.78
+732	"TemraCD4"	0.13
+732	"TemraCD8"	2.12
+732	"T:M doublets (CD19-CD3+CD14+)"	0.1
+930	"Activated B cells (ABCs)"	0.24
+930	"Activated granulocytes"	0.00944
+930	"ASCs (Plasmablasts)"	0.09
+930	"Basophils"	0.72
+930	"Bcells"	4.88
+930	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.76
+930	"B cells (CD19+CD3-CD14-CD56-)"	4.87
+930	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.015
+930	"CD19-CD3-"	34.3
+930	"CD19+ CD3-"	4.89
+930	"CD3CD19"	0.03
+930	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.15
+930	"CD3-CD19-CD56- cells"	18.2
+930	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.26
+930	"CD3CD19neg"	60.7
+930	"CD3 Tcells"	54.6
+930	"CD4+CD8+ T cells"	0.11
+930	"CD4-CD8- T cells"	5.56
+930	"CD4Tcells"	26.4
+930	"CD56+ CD3high T cells"	2.82
+930	"CD56+CD3+T cells"	2.2
+930	"CD56high NK cells"	0.26
+930	"CD8Tcells"	21.6
+930	"cDC1"	0.018
+930	"cDC2"	0.55
+930	"Classical_Monocytes"	13.6
+930	"Conventional dendritic cells (cDCs)"	0.59
+930	"Intermediate_Monocytes"	0.58
+930	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	1.46
+930	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	0.73
+930	"MB doublets (CD19+CD14+)"	0.003
+930	"Memory B cells"	0.61
+930	"Monocytes"	16.3
+930	"Naive B cells"	3.88
+930	"NaiveCD4"	15.7
+930	"NaiveCD8"	16.4
+930	"NK"	15.5
+930	"NK cells (CD3-CD19-CD56+)"	15.7
+930	"Non-Classical_Monocytes"	0.8
+930	"non-pDCs"	0.74
+930	"pDC"	0.35
+930	"Proliferating B cells"	0.34
+930	"T cells (CD19-CD3+CD14-)"	60.5
+930	"TcmCD4"	7.79
+930	"TcmCD8"	0.51
+930	"TemCD4"	2.83
+930	"TemCD8"	2.64
+930	"TemraCD4"	0.077
+930	"TemraCD8"	2.04
+930	"T:M doublets (CD19-CD3+CD14+)"	0.25
+761	"Activated B cells (ABCs)"	0.52
+761	"Activated granulocytes"	0.023
+761	"ASCs (Plasmablasts)"	0.02
+761	"Basophils"	0.91
+761	"Bcells"	3.65
+761	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.6
+761	"B cells (CD19+CD3-CD14-CD56-)"	3.64
+761	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.0085
+761	"CD19-CD3-"	27.4
+761	"CD19+ CD3-"	3.66
+761	"CD3CD19"	0.024
+761	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.018
+761	"CD3-CD19-CD56- cells"	22.3
+761	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.45
+761	"CD3CD19neg"	68.9
+761	"CD3 Tcells"	68.2
+761	"CD4+CD8+ T cells"	0.16
+761	"CD4-CD8- T cells"	2.42
+761	"CD4Tcells"	44.3
+761	"CD56+ CD3high T cells"	0.19
+761	"CD56+CD3+T cells"	0.39
+761	"CD56high NK cells"	0.34
+761	"CD8Tcells"	21
+761	"cDC1"	0.00935
+761	"cDC2"	1.4
+761	"Classical_Monocytes"	15.4
+761	"Conventional dendritic cells (cDCs)"	1.46
+761	"Intermediate_Monocytes"	0.7
+761	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.46
+761	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.52
+761	"MB doublets (CD19+CD14+)"	0.00794
+761	"Memory B cells"	0.8
+761	"Monocytes"	19.7
+761	"Naive B cells"	2.27
+761	"NaiveCD4"	28.1
+761	"NaiveCD8"	14
+761	"NK"	4.26
+761	"NK cells (CD3-CD19-CD56+)"	4.78
+761	"Non-Classical_Monocytes"	1.07
+761	"non-pDCs"	1.48
+761	"pDC"	0.77
+761	"Proliferating B cells"	0.54
+761	"T cells (CD19-CD3+CD14-)"	68.9
+761	"TcmCD4"	13
+761	"TcmCD8"	1.5
+761	"TemCD4"	3.2
+761	"TemCD8"	1.37
+761	"TemraCD4"	0.044
+761	"TemraCD8"	4.1
+761	"T:M doublets (CD19-CD3+CD14+)"	0.059
+861	"Activated B cells (ABCs)"	0.2
+861	"Activated granulocytes"	0.15
+861	"ASCs (Plasmablasts)"	0.06
+861	"Basophils"	0.85
+861	"Bcells"	5.08
+861	"B cells (CD19+CD20+CD3-CD14-CD56-)"	5
+861	"B cells (CD19+CD3-CD14-CD56-)"	5.07
+861	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.01
+861	"CD19-CD3-"	50
+861	"CD19+ CD3-"	5.11
+861	"CD3CD19"	0.041
+861	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.091
+861	"CD3-CD19-CD56- cells"	37
+861	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.34
+861	"CD3CD19neg"	44.9
+861	"CD3 Tcells"	42.6
+861	"CD4+CD8+ T cells"	0.049
+861	"CD4-CD8- T cells"	1.2
+861	"CD4Tcells"	34
+861	"CD56+ CD3high T cells"	1.07
+861	"CD56+CD3+T cells"	0.55
+861	"CD56high NK cells"	0.37
+861	"CD8Tcells"	7.08
+861	"cDC1"	0.000783
+861	"cDC2"	0.25
+861	"Classical_Monocytes"	23.4
+861	"Conventional dendritic cells (cDCs)"	0.27
+861	"Intermediate_Monocytes"	2.26
+861	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	7.03
+861	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	6.03
+861	"MB doublets (CD19+CD14+)"	0.031
+861	"Memory B cells"	0.82
+861	"Monocytes"	28.4
+861	"Naive B cells"	3.98
+861	"NaiveCD4"	25.2
+861	"NaiveCD8"	6.27
+861	"NK"	11.8
+861	"NK cells (CD3-CD19-CD56+)"	12.1
+861	"Non-Classical_Monocytes"	1.09
+861	"non-pDCs"	0.36
+861	"pDC"	0.39
+861	"Proliferating B cells"	0.27
+861	"T cells (CD19-CD3+CD14-)"	44.7
+861	"TcmCD4"	7.44
+861	"TcmCD8"	0.02
+861	"TemCD4"	1.06
+861	"TemCD8"	0.016
+861	"TemraCD4"	0.34
+861	"TemraCD8"	0.77
+861	"T:M doublets (CD19-CD3+CD14+)"	0.2
+829	"Activated B cells (ABCs)"	0.29
+829	"Activated granulocytes"	0.0067
+829	"ASCs (Plasmablasts)"	0.15
+829	"Basophils"	2.69
+829	"Bcells"	3.24
+829	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.03
+829	"B cells (CD19+CD3-CD14-CD56-)"	3.23
+829	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.015
+829	"CD19-CD3-"	23.3
+829	"CD19+ CD3-"	3.26
+829	"CD3CD19"	0.036
+829	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.17
+829	"CD3-CD19-CD56- cells"	17.9
+829	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.48
+829	"CD3CD19neg"	73.4
+829	"CD3 Tcells"	71.9
+829	"CD4+CD8+ T cells"	0.24
+829	"CD4-CD8- T cells"	3.03
+829	"CD4Tcells"	49.4
+829	"CD56+ CD3high T cells"	0.64
+829	"CD56+CD3+T cells"	0.63
+829	"CD56high NK cells"	0.33
+829	"CD8Tcells"	18.7
+829	"cDC1"	0.021
+829	"cDC2"	0.64
+829	"Classical_Monocytes"	10.3
+829	"Conventional dendritic cells (cDCs)"	0.7
+829	"Intermediate_Monocytes"	0.53
+829	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.71
+829	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.01
+829	"MB doublets (CD19+CD14+)"	0.014
+829	"Memory B cells"	0.73
+829	"Monocytes"	13.9
+829	"Naive B cells"	2.02
+829	"NaiveCD4"	32.6
+829	"NaiveCD8"	11.7
+829	"NK"	4.7
+829	"NK cells (CD3-CD19-CD56+)"	5.03
+829	"Non-Classical_Monocytes"	1.47
+829	"non-pDCs"	0.87
+829	"pDC"	0.42
+829	"Proliferating B cells"	0.45
+829	"T cells (CD19-CD3+CD14-)"	73.3
+829	"TcmCD4"	14.3
+829	"TcmCD8"	1.41
+829	"TemCD4"	2.34
+829	"TemCD8"	1.85
+829	"TemraCD4"	0.067
+829	"TemraCD8"	3.76
+829	"T:M doublets (CD19-CD3+CD14+)"	0.062
+819	"Activated B cells (ABCs)"	0.077
+819	"Activated granulocytes"	0.00794
+819	"ASCs (Plasmablasts)"	0.00627
+819	"Basophils"	0.48
+819	"Bcells"	2.64
+819	"B cells (CD19+CD20+CD3-CD14-CD56-)"	2.6
+819	"B cells (CD19+CD3-CD14-CD56-)"	2.63
+819	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.013
+819	"CD19-CD3-"	21.8
+819	"CD19+ CD3-"	2.66
+819	"CD3CD19"	0.024
+819	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.1
+819	"CD3-CD19-CD56- cells"	17.2
+819	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.19
+819	"CD3CD19neg"	75.5
+819	"CD3 Tcells"	74
+819	"CD4+CD8+ T cells"	0.26
+819	"CD4-CD8- T cells"	1.51
+819	"CD4Tcells"	49.4
+819	"CD56+ CD3high T cells"	0.79
+819	"CD56+CD3+T cells"	0.48
+819	"CD56high NK cells"	0.53
+819	"CD8Tcells"	22.7
+819	"cDC1"	0.0071
+819	"cDC2"	0.68
+819	"Classical_Monocytes"	11.6
+819	"Conventional dendritic cells (cDCs)"	0.76
+819	"Intermediate_Monocytes"	0.46
+819	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	1.13
+819	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	0.64
+819	"MB doublets (CD19+CD14+)"	0.019
+819	"Memory B cells"	0.36
+819	"Monocytes"	15.9
+819	"Naive B cells"	2.17
+819	"NaiveCD4"	33.5
+819	"NaiveCD8"	18.9
+819	"NK"	2.65
+819	"NK cells (CD3-CD19-CD56+)"	3.2
+819	"Non-Classical_Monocytes"	1.54
+819	"non-pDCs"	0.86
+819	"pDC"	1.05
+819	"Proliferating B cells"	0.085
+819	"T cells (CD19-CD3+CD14-)"	75.4
+819	"TcmCD4"	14.3
+819	"TcmCD8"	1.23
+819	"TemCD4"	1.41
+819	"TemCD8"	0.81
+819	"TemraCD4"	0.12
+819	"TemraCD8"	1.73
+819	"T:M doublets (CD19-CD3+CD14+)"	0.079
+882	"Activated B cells (ABCs)"	0.082
+882	"Activated granulocytes"	0.029
+882	"ASCs (Plasmablasts)"	0.011
+882	"Basophils"	1.04
+882	"Bcells"	2.03
+882	"B cells (CD19+CD20+CD3-CD14-CD56-)"	2.01
+882	"B cells (CD19+CD3-CD14-CD56-)"	2.03
+882	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00368
+882	"CD19-CD3-"	35.9
+882	"CD19+ CD3-"	2.04
+882	"CD3CD19"	0.026
+882	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.35
+882	"CD3-CD19-CD56- cells"	25.4
+882	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.9
+882	"CD3CD19neg"	62
+882	"CD3 Tcells"	61.2
+882	"CD4+CD8+ T cells"	0.09
+882	"CD4-CD8- T cells"	4.32
+882	"CD4Tcells"	37.6
+882	"CD56+ CD3high T cells"	0.32
+882	"CD56+CD3+T cells"	0.31
+882	"CD56high NK cells"	0.72
+882	"CD8Tcells"	18.2
+882	"cDC1"	0.00268
+882	"cDC2"	0.78
+882	"Classical_Monocytes"	18.2
+882	"Conventional dendritic cells (cDCs)"	0.79
+882	"Intermediate_Monocytes"	0.92
+882	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.94
+882	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.88
+882	"MB doublets (CD19+CD14+)"	0.00602
+882	"Memory B cells"	0.49
+882	"Monocytes"	22
+882	"Naive B cells"	1.44
+882	"NaiveCD4"	27.6
+882	"NaiveCD8"	13.9
+882	"NK"	9.3
+882	"NK cells (CD3-CD19-CD56+)"	10
+882	"Non-Classical_Monocytes"	0.8
+882	"non-pDCs"	1.14
+882	"pDC"	0.53
+882	"Proliferating B cells"	0.094
+882	"T cells (CD19-CD3+CD14-)"	61.9
+882	"TcmCD4"	6.02
+882	"TcmCD8"	0.48
+882	"TemCD4"	3.65
+882	"TemCD8"	2.09
+882	"TemraCD4"	0.32
+882	"TemraCD8"	1.7
+882	"T:M doublets (CD19-CD3+CD14+)"	0.082
+900	"Activated B cells (ABCs)"	0.25
+900	"Activated granulocytes"	0.01
+900	"ASCs (Plasmablasts)"	0.19
+900	"Basophils"	1.07
+900	"Bcells"	5.97
+900	"B cells (CD19+CD20+CD3-CD14-CD56-)"	5.67
+900	"B cells (CD19+CD3-CD14-CD56-)"	5.91
+900	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.056
+900	"CD19-CD3-"	28.7
+900	"CD19+ CD3-"	5.99
+900	"CD3CD19"	0.082
+900	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.096
+900	"CD3-CD19-CD56- cells"	19.3
+900	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.37
+900	"CD3CD19neg"	65.2
+900	"CD3 Tcells"	61.9
+900	"CD4+CD8+ T cells"	0.29
+900	"CD4-CD8- T cells"	3.95
+900	"CD4Tcells"	27
+900	"CD56+ CD3high T cells"	0.83
+900	"CD56+CD3+T cells"	2.03
+900	"CD56high NK cells"	0.41
+900	"CD8Tcells"	29.9
+900	"cDC1"	0.00243
+900	"cDC2"	0.49
+900	"Classical_Monocytes"	8.77
+900	"Conventional dendritic cells (cDCs)"	0.52
+900	"Intermediate_Monocytes"	0.73
+900	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	6.23
+900	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	5.15
+900	"MB doublets (CD19+CD14+)"	0.022
+900	"Memory B cells"	0.85
+900	"Monocytes"	11.9
+900	"Naive B cells"	4.56
+900	"NaiveCD4"	16.9
+900	"NaiveCD8"	22.8
+900	"NK"	8.43
+900	"NK cells (CD3-CD19-CD56+)"	8.84
+900	"Non-Classical_Monocytes"	0.95
+900	"non-pDCs"	0.63
+900	"pDC"	0.6
+900	"Proliferating B cells"	0.44
+900	"T cells (CD19-CD3+CD14-)"	65.1
+900	"TcmCD4"	4.54
+900	"TcmCD8"	0.63
+900	"TemCD4"	5.06
+900	"TemCD8"	1.32
+900	"TemraCD4"	0.49
+900	"TemraCD8"	5.14
+900	"T:M doublets (CD19-CD3+CD14+)"	0.16
+891	"Activated B cells (ABCs)"	0.21
+891	"Activated granulocytes"	0.00598
+891	"ASCs (Plasmablasts)"	0.073
+891	"Basophils"	0.38
+891	"Bcells"	3.49
+891	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.39
+891	"B cells (CD19+CD3-CD14-CD56-)"	3.49
+891	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00569
+891	"CD19-CD3-"	44.1
+891	"CD19+ CD3-"	3.5
+891	"CD3CD19"	0.017
+891	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.097
+891	"CD3-CD19-CD56- cells"	25.3
+891	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.49
+891	"CD3CD19neg"	52.4
+891	"CD3 Tcells"	44.8
+891	"CD4+CD8+ T cells"	0.068
+891	"CD4-CD8- T cells"	2.94
+891	"CD4Tcells"	26.2
+891	"CD56+ CD3high T cells"	0.68
+891	"CD56+CD3+T cells"	6.4
+891	"CD56high NK cells"	0.51
+891	"CD8Tcells"	15
+891	"cDC1"	0.000285
+891	"cDC2"	0.71
+891	"Classical_Monocytes"	16.6
+891	"Conventional dendritic cells (cDCs)"	0.72
+891	"Intermediate_Monocytes"	1.15
+891	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.78
+891	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.39
+891	"MB doublets (CD19+CD14+)"	0.00683
+891	"Memory B cells"	0.89
+891	"Monocytes"	22.1
+891	"Naive B cells"	2.3
+891	"NaiveCD4"	16.5
+891	"NaiveCD8"	9.87
+891	"NK"	17.9
+891	"NK cells (CD3-CD19-CD56+)"	18.4
+891	"Non-Classical_Monocytes"	2.66
+891	"non-pDCs"	0.81
+891	"pDC"	0.36
+891	"Proliferating B cells"	0.29
+891	"T cells (CD19-CD3+CD14-)"	52.2
+891	"TcmCD4"	6.83
+891	"TcmCD8"	0.22
+891	"TemCD4"	2.58
+891	"TemCD8"	0.46
+891	"TemraCD4"	0.31
+891	"TemraCD8"	4.4
+891	"T:M doublets (CD19-CD3+CD14+)"	0.2
+911	"Activated B cells (ABCs)"	0.15
+911	"Activated granulocytes"	0.021
+911	"ASCs (Plasmablasts)"	0.046
+911	"Basophils"	0.69
+911	"Bcells"	3.5
+911	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.42
+911	"B cells (CD19+CD3-CD14-CD56-)"	3.49
+911	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.0066
+911	"CD19-CD3-"	35.9
+911	"CD19+ CD3-"	3.52
+911	"CD3CD19"	0.026
+911	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.06
+911	"CD3-CD19-CD56- cells"	20.5
+911	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.25
+911	"CD3CD19neg"	60.6
+911	"CD3 Tcells"	59.7
+911	"CD4+CD8+ T cells"	0.074
+911	"CD4-CD8- T cells"	2.56
+911	"CD4Tcells"	39.3
+911	"CD56+ CD3high T cells"	0.34
+911	"CD56+CD3+T cells"	0.26
+911	"CD56high NK cells"	0.88
+911	"CD8Tcells"	17.5
+911	"cDC1"	0
+911	"cDC2"	0.94
+911	"Classical_Monocytes"	9.85
+911	"Conventional dendritic cells (cDCs)"	0.98
+911	"Intermediate_Monocytes"	0.22
+911	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	5
+911	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	4.27
+911	"MB doublets (CD19+CD14+)"	0.019
+911	"Memory B cells"	0.5
+911	"Monocytes"	14.3
+911	"Naive B cells"	2.75
+911	"NaiveCD4"	32.2
+911	"NaiveCD8"	14.6
+911	"NK"	13.8
+911	"NK cells (CD3-CD19-CD56+)"	14.7
+911	"Non-Classical_Monocytes"	1.89
+911	"non-pDCs"	1.05
+911	"pDC"	0.94
+911	"Proliferating B cells"	0.2
+911	"T cells (CD19-CD3+CD14-)"	60.5
+911	"TcmCD4"	5.93
+911	"TcmCD8"	1.12
+911	"TemCD4"	1.07
+911	"TemCD8"	0.75
+911	"TemraCD4"	0.052
+911	"TemraCD8"	1.01
+911	"T:M doublets (CD19-CD3+CD14+)"	0.097
+762	"Activated B cells (ABCs)"	0.37
+762	"Activated granulocytes"	0.023
+762	"ASCs (Plasmablasts)"	0.065
+762	"Basophils"	1.16
+762	"Bcells"	2.23
+762	"B cells (CD19+CD20+CD3-CD14-CD56-)"	2.09
+762	"B cells (CD19+CD3-CD14-CD56-)"	2.19
+762	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.036
+762	"CD19-CD3-"	32.7
+762	"CD19+ CD3-"	2.23
+762	"CD3CD19"	0.056
+762	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.037
+762	"CD3-CD19-CD56- cells"	25.5
+762	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.18
+762	"CD3CD19neg"	65
+762	"CD3 Tcells"	63.7
+762	"CD4+CD8+ T cells"	0.13
+762	"CD4-CD8- T cells"	2.25
+762	"CD4Tcells"	40.3
+762	"CD56+ CD3high T cells"	0.43
+762	"CD56+CD3+T cells"	0.61
+762	"CD56high NK cells"	0.41
+762	"CD8Tcells"	20.7
+762	"cDC1"	0.00985
+762	"cDC2"	1.13
+762	"Classical_Monocytes"	18.5
+762	"Conventional dendritic cells (cDCs)"	1.19
+762	"Intermediate_Monocytes"	0.59
+762	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.44
+762	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.26
+762	"MB doublets (CD19+CD14+)"	0.00434
+762	"Memory B cells"	0.46
+762	"Monocytes"	22.9
+762	"Naive B cells"	1.26
+762	"NaiveCD4"	26.4
+762	"NaiveCD8"	13.7
+762	"NK"	6.29
+762	"NK cells (CD3-CD19-CD56+)"	6.88
+762	"Non-Classical_Monocytes"	1.55
+762	"non-pDCs"	1.23
+762	"pDC"	0.76
+762	"Proliferating B cells"	0.44
+762	"T cells (CD19-CD3+CD14-)"	65
+762	"TcmCD4"	11.5
+762	"TcmCD8"	1.21
+762	"TemCD4"	2.42
+762	"TemCD8"	1.12
+762	"TemraCD4"	0.034
+762	"TemraCD8"	4.64
+762	"T:M doublets (CD19-CD3+CD14+)"	0.048
+801	"Activated B cells (ABCs)"	0.34
+801	"Activated granulocytes"	0.036
+801	"ASCs (Plasmablasts)"	0.057
+801	"Basophils"	0.73
+801	"Bcells"	8.61
+801	"B cells (CD19+CD20+CD3-CD14-CD56-)"	8.45
+801	"B cells (CD19+CD3-CD14-CD56-)"	8.55
+801	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.059
+801	"CD19-CD3-"	40
+801	"CD19+ CD3-"	8.63
+801	"CD3CD19"	0.052
+801	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.05
+801	"CD3-CD19-CD56- cells"	23.1
+801	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.37
+801	"CD3CD19neg"	51.3
+801	"CD3 Tcells"	46.9
+801	"CD4+CD8+ T cells"	0.15
+801	"CD4-CD8- T cells"	2.26
+801	"CD4Tcells"	26.6
+801	"CD56+ CD3high T cells"	2.16
+801	"CD56+CD3+T cells"	1.82
+801	"CD56high NK cells"	0.48
+801	"CD8Tcells"	17.3
+801	"cDC1"	0.011
+801	"cDC2"	0.39
+801	"Classical_Monocytes"	12.9
+801	"Conventional dendritic cells (cDCs)"	0.41
+801	"Intermediate_Monocytes"	0.54
+801	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	5.53
+801	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	4.74
+801	"MB doublets (CD19+CD14+)"	0.017
+801	"Memory B cells"	0.91
+801	"Monocytes"	16.3
+801	"Naive B cells"	7.19
+801	"NaiveCD4"	17
+801	"NaiveCD8"	13
+801	"NK"	15.8
+801	"NK cells (CD3-CD19-CD56+)"	16.3
+801	"Non-Classical_Monocytes"	1.52
+801	"non-pDCs"	0.47
+801	"pDC"	0.59
+801	"Proliferating B cells"	0.4
+801	"T cells (CD19-CD3+CD14-)"	51.2
+801	"TcmCD4"	7.65
+801	"TcmCD8"	0.82
+801	"TemCD4"	1.85
+801	"TemCD8"	1.63
+801	"TemraCD4"	0.079
+801	"TemraCD8"	1.85
+801	"T:M doublets (CD19-CD3+CD14+)"	0.11
+920	"Activated B cells (ABCs)"	0.22
+920	"Activated granulocytes"	0.014
+920	"ASCs (Plasmablasts)"	0.032
+920	"Basophils"	0.62
+920	"Bcells"	4.96
+920	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.91
+920	"B cells (CD19+CD3-CD14-CD56-)"	4.95
+920	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.013
+920	"CD19-CD3-"	30.1
+920	"CD19+ CD3-"	4.97
+920	"CD3CD19"	0.089
+920	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.14
+920	"CD3-CD19-CD56- cells"	19.5
+920	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.83
+920	"CD3CD19neg"	64.8
+920	"CD3 Tcells"	61.8
+920	"CD4+CD8+ T cells"	0.37
+920	"CD4-CD8- T cells"	3.59
+920	"CD4Tcells"	35.7
+920	"CD56+ CD3high T cells"	0.28
+920	"CD56+CD3+T cells"	2.33
+920	"CD56high NK cells"	0.6
+920	"CD8Tcells"	20.7
+920	"cDC1"	0.00733
+920	"cDC2"	0.63
+920	"Classical_Monocytes"	10.5
+920	"Conventional dendritic cells (cDCs)"	0.66
+920	"Intermediate_Monocytes"	0.83
+920	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.88
+920	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	3.24
+920	"MB doublets (CD19+CD14+)"	0.01
+920	"Memory B cells"	1.13
+920	"Monocytes"	14.9
+920	"Naive B cells"	3.56
+920	"NaiveCD4"	20
+920	"NaiveCD8"	15.2
+920	"NK"	9.72
+920	"NK cells (CD3-CD19-CD56+)"	10.3
+920	"Non-Classical_Monocytes"	1.57
+920	"non-pDCs"	0.8
+920	"pDC"	0.81
+920	"Proliferating B cells"	0.25
+920	"T cells (CD19-CD3+CD14-)"	64.6
+920	"TcmCD4"	11.2
+920	"TcmCD8"	0.92
+920	"TemCD4"	4.29
+920	"TemCD8"	2.53
+920	"TemraCD4"	0.13
+920	"TemraCD8"	2.09
+920	"T:M doublets (CD19-CD3+CD14+)"	0.28
+751	"Activated B cells (ABCs)"	0.19
+751	"Activated granulocytes"	0.062
+751	"ASCs (Plasmablasts)"	0.017
+751	"Basophils"	0.51
+751	"Bcells"	7.04
+751	"B cells (CD19+CD20+CD3-CD14-CD56-)"	6.99
+751	"B cells (CD19+CD3-CD14-CD56-)"	7.03
+751	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.011
+751	"CD19-CD3-"	39.7
+751	"CD19+ CD3-"	7.05
+751	"CD3CD19"	0.042
+751	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.068
+751	"CD3-CD19-CD56- cells"	30.5
+751	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.14
+751	"CD3CD19neg"	53.2
+751	"CD3 Tcells"	52
+751	"CD4+CD8+ T cells"	0.22
+751	"CD4-CD8- T cells"	2.04
+751	"CD4Tcells"	35.8
+751	"CD56+ CD3high T cells"	0.36
+751	"CD56+CD3+T cells"	0.7
+751	"CD56high NK cells"	0.72
+751	"CD8Tcells"	13.6
+751	"cDC1"	0.00207
+751	"cDC2"	0.86
+751	"Classical_Monocytes"	23.1
+751	"Conventional dendritic cells (cDCs)"	0.89
+751	"Intermediate_Monocytes"	0.52
+751	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	4.66
+751	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	4.09
+751	"MB doublets (CD19+CD14+)"	0.012
+751	"Memory B cells"	2.21
+751	"Monocytes"	25.9
+751	"Naive B cells"	4.59
+751	"NaiveCD4"	11.5
+751	"NaiveCD8"	7.76
+751	"NK"	8.13
+751	"NK cells (CD3-CD19-CD56+)"	8.85
+751	"Non-Classical_Monocytes"	1.08
+751	"non-pDCs"	0.96
+751	"pDC"	0.11
+751	"Proliferating B cells"	0.21
+751	"T cells (CD19-CD3+CD14-)"	53.1
+751	"TcmCD4"	8.74
+751	"TcmCD8"	0.29
+751	"TemCD4"	14.6
+751	"TemCD8"	2.58
+751	"TemraCD4"	0.98
+751	"TemraCD8"	3.01
+751	"T:M doublets (CD19-CD3+CD14+)"	0.11
+849	"Activated B cells (ABCs)"	0.23
+849	"Activated granulocytes"	0.038
+849	"ASCs (Plasmablasts)"	0.07
+849	"Basophils"	0.38
+849	"Bcells"	3.08
+849	"B cells (CD19+CD20+CD3-CD14-CD56-)"	2.96
+849	"B cells (CD19+CD3-CD14-CD56-)"	3.07
+849	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00898
+849	"CD19-CD3-"	23.1
+849	"CD19+ CD3-"	3.09
+849	"CD3CD19"	0.016
+849	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.26
+849	"CD3-CD19-CD56- cells"	16.3
+849	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.65
+849	"CD3CD19neg"	73.8
+849	"CD3 Tcells"	72.5
+849	"CD4+CD8+ T cells"	0.14
+849	"CD4-CD8- T cells"	1.73
+849	"CD4Tcells"	49.7
+849	"CD56+ CD3high T cells"	0.44
+849	"CD56+CD3+T cells"	0.68
+849	"CD56high NK cells"	0.69
+849	"CD8Tcells"	20.6
+849	"cDC1"	0.00317
+849	"cDC2"	0.79
+849	"Classical_Monocytes"	9.03
+849	"Conventional dendritic cells (cDCs)"	0.83
+849	"Intermediate_Monocytes"	0.42
+849	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.17
+849	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.75
+849	"MB doublets (CD19+CD14+)"	0.012
+849	"Memory B cells"	0.5
+849	"Monocytes"	12.2
+849	"Naive B cells"	2.23
+849	"NaiveCD4"	37.4
+849	"NaiveCD8"	17.1
+849	"NK"	5.97
+849	"NK cells (CD3-CD19-CD56+)"	6.67
+849	"Non-Classical_Monocytes"	1.02
+849	"non-pDCs"	1.1
+849	"pDC"	0.28
+849	"Proliferating B cells"	0.3
+849	"T cells (CD19-CD3+CD14-)"	73.7
+849	"TcmCD4"	10.1
+849	"TcmCD8"	0.5
+849	"TemCD4"	2.04
+849	"TemCD8"	1.59
+849	"TemraCD4"	0.15
+849	"TemraCD8"	1.48
+849	"T:M doublets (CD19-CD3+CD14+)"	0.051
+752	"Activated B cells (ABCs)"	0.18
+752	"Activated granulocytes"	0.072
+752	"ASCs (Plasmablasts)"	0.039
+752	"Basophils"	0.82
+752	"Bcells"	7.27
+752	"B cells (CD19+CD20+CD3-CD14-CD56-)"	7.2
+752	"B cells (CD19+CD3-CD14-CD56-)"	7.26
+752	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00982
+752	"CD19-CD3-"	42.1
+752	"CD19+ CD3-"	7.29
+752	"CD3CD19"	0.2
+752	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.08
+752	"CD3-CD19-CD56- cells"	30.7
+752	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.76
+752	"CD3CD19neg"	50.4
+752	"CD3 Tcells"	49
+752	"CD4+CD8+ T cells"	0.19
+752	"CD4-CD8- T cells"	1.87
+752	"CD4Tcells"	33.7
+752	"CD56+ CD3high T cells"	0.46
+752	"CD56+CD3+T cells"	0.83
+752	"CD56high NK cells"	0.63
+752	"CD8Tcells"	12.9
+752	"cDC1"	0.0031
+752	"cDC2"	1.19
+752	"Classical_Monocytes"	22.3
+752	"Conventional dendritic cells (cDCs)"	1.27
+752	"Intermediate_Monocytes"	0.64
+752	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	4.95
+752	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	4.06
+752	"MB doublets (CD19+CD14+)"	0.024
+752	"Memory B cells"	2.2
+752	"Monocytes"	25.8
+752	"Naive B cells"	4.81
+752	"NaiveCD4"	8.62
+752	"NaiveCD8"	6.49
+752	"NK"	10.4
+752	"NK cells (CD3-CD19-CD56+)"	11.1
+752	"Non-Classical_Monocytes"	1.13
+752	"non-pDCs"	1.35
+752	"pDC"	0.23
+752	"Proliferating B cells"	0.22
+752	"T cells (CD19-CD3+CD14-)"	50.3
+752	"TcmCD4"	6.99
+752	"TcmCD8"	0.22
+752	"TemCD4"	17.1
+752	"TemCD8"	3.08
+752	"TemraCD4"	1.03
+752	"TemraCD8"	3.11
+752	"T:M doublets (CD19-CD3+CD14+)"	0.041
+870	"Activated B cells (ABCs)"	0.15
+870	"Activated granulocytes"	0.00995
+870	"ASCs (Plasmablasts)"	0.048
+870	"Basophils"	0.54
+870	"Bcells"	3.59
+870	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.51
+870	"B cells (CD19+CD3-CD14-CD56-)"	3.58
+870	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.016
+870	"CD19-CD3-"	49.1
+870	"CD19+ CD3-"	3.6
+870	"CD3CD19"	0.023
+870	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.23
+870	"CD3-CD19-CD56- cells"	24
+870	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.87
+870	"CD3CD19neg"	47.3
+870	"CD3 Tcells"	46.1
+870	"CD4+CD8+ T cells"	0.35
+870	"CD4-CD8- T cells"	1.29
+870	"CD4Tcells"	30.8
+870	"CD56+ CD3high T cells"	0.2
+870	"CD56+CD3+T cells"	0.82
+870	"CD56high NK cells"	0.79
+870	"CD8Tcells"	13
+870	"cDC1"	0.00618
+870	"cDC2"	1.14
+870	"Classical_Monocytes"	15.8
+870	"Conventional dendritic cells (cDCs)"	1.15
+870	"Intermediate_Monocytes"	1.78
+870	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.67
+870	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.12
+870	"MB doublets (CD19+CD14+)"	0.00995
+870	"Memory B cells"	0.52
+870	"Monocytes"	20.6
+870	"Naive B cells"	2.84
+870	"NaiveCD4"	17.6
+870	"NaiveCD8"	5.5
+870	"NK"	23.7
+870	"NK cells (CD3-CD19-CD56+)"	24.5
+870	"Non-Classical_Monocytes"	1.03
+870	"non-pDCs"	1.38
+870	"pDC"	0.26
+870	"Proliferating B cells"	0.2
+870	"T cells (CD19-CD3+CD14-)"	47.2
+870	"TcmCD4"	9.14
+870	"TcmCD8"	1.18
+870	"TemCD4"	3.79
+870	"TemCD8"	3.25
+870	"TemraCD4"	0.26
+870	"TemraCD8"	3.11
+870	"T:M doublets (CD19-CD3+CD14+)"	0.095
+910	"Activated B cells (ABCs)"	0.11
+910	"Activated granulocytes"	0.018
+910	"ASCs (Plasmablasts)"	0.049
+910	"Basophils"	0.61
+910	"Bcells"	3.38
+910	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.28
+910	"B cells (CD19+CD3-CD14-CD56-)"	3.38
+910	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.0058
+910	"CD19-CD3-"	32.8
+910	"CD19+ CD3-"	3.41
+910	"CD3CD19"	0.028
+910	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.12
+910	"CD3-CD19-CD56- cells"	20.9
+910	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	3.27
+910	"CD3CD19neg"	63.7
+910	"CD3 Tcells"	62.9
+910	"CD4+CD8+ T cells"	0.082
+910	"CD4-CD8- T cells"	2.49
+910	"CD4Tcells"	42
+910	"CD56+ CD3high T cells"	0.32
+910	"CD56+CD3+T cells"	0.31
+910	"CD56high NK cells"	0.77
+910	"CD8Tcells"	18
+910	"cDC1"	0
+910	"cDC2"	0.91
+910	"Classical_Monocytes"	10.8
+910	"Conventional dendritic cells (cDCs)"	0.96
+910	"Intermediate_Monocytes"	0.36
+910	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	4.26
+910	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	3.63
+910	"MB doublets (CD19+CD14+)"	0.025
+910	"Memory B cells"	0.52
+910	"Monocytes"	15.5
+910	"Naive B cells"	2.67
+910	"NaiveCD4"	34.3
+910	"NaiveCD8"	14.9
+910	"NK"	10.6
+910	"NK cells (CD3-CD19-CD56+)"	11.4
+910	"Non-Classical_Monocytes"	1.02
+910	"non-pDCs"	1.1
+910	"pDC"	1.81
+910	"Proliferating B cells"	0.16
+910	"T cells (CD19-CD3+CD14-)"	63.6
+910	"TcmCD4"	6.61
+910	"TcmCD8"	1.18
+910	"TemCD4"	1.06
+910	"TemCD8"	0.8
+910	"TemraCD4"	0.063
+910	"TemraCD8"	1.1
+910	"T:M doublets (CD19-CD3+CD14+)"	0.095
+770	"Activated B cells (ABCs)"	0.14
+770	"Activated granulocytes"	0.00543
+770	"ASCs (Plasmablasts)"	0.067
+770	"Basophils"	0.6
+770	"Bcells"	3.61
+770	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.49
+770	"B cells (CD19+CD3-CD14-CD56-)"	3.6
+770	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00815
+770	"CD19-CD3-"	22.5
+770	"CD19+ CD3-"	3.61
+770	"CD3CD19"	0.026
+770	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.076
+770	"CD3-CD19-CD56- cells"	13.6
+770	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.22
+770	"CD3CD19neg"	73.9
+770	"CD3 Tcells"	73.2
+770	"CD4+CD8+ T cells"	1.19
+770	"CD4-CD8- T cells"	2.63
+770	"CD4Tcells"	47.1
+770	"CD56+ CD3high T cells"	0.32
+770	"CD56+CD3+T cells"	0.25
+770	"CD56high NK cells"	0.54
+770	"CD8Tcells"	21.9
+770	"cDC1"	0.00407
+770	"cDC2"	0.25
+770	"Classical_Monocytes"	10.3
+770	"Conventional dendritic cells (cDCs)"	0.26
+770	"Intermediate_Monocytes"	0.15
+770	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	1.31
+770	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	0.71
+770	"MB doublets (CD19+CD14+)"	0.00407
+770	"Memory B cells"	0.7
+770	"Monocytes"	12.2
+770	"Naive B cells"	2.66
+770	"NaiveCD4"	33.5
+770	"NaiveCD8"	16
+770	"NK"	8.07
+770	"NK cells (CD3-CD19-CD56+)"	8.72
+770	"Non-Classical_Monocytes"	0.46
+770	"non-pDCs"	0.34
+770	"pDC"	0.14
+770	"Proliferating B cells"	0.21
+770	"T cells (CD19-CD3+CD14-)"	73.8
+770	"TcmCD4"	11.4
+770	"TcmCD8"	3.59
+770	"TemCD4"	2.13
+770	"TemCD8"	0.97
+770	"TemraCD4"	0.06
+770	"TemraCD8"	1.34
+770	"T:M doublets (CD19-CD3+CD14+)"	0.052
+782	"Activated B cells (ABCs)"	0.09
+782	"Activated granulocytes"	0.023
+782	"ASCs (Plasmablasts)"	0.035
+782	"Basophils"	0.87
+782	"Bcells"	4.23
+782	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.15
+782	"B cells (CD19+CD3-CD14-CD56-)"	4.22
+782	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00935
+782	"CD19-CD3-"	49.3
+782	"CD19+ CD3-"	4.25
+782	"CD3CD19"	0.029
+782	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.11
+782	"CD3-CD19-CD56- cells"	32.4
+782	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.14
+782	"CD3CD19neg"	46.4
+782	"CD3 Tcells"	45.4
+782	"CD4+CD8+ T cells"	0.18
+782	"CD4-CD8- T cells"	3.57
+782	"CD4Tcells"	31
+782	"CD56+ CD3high T cells"	0.46
+782	"CD56+CD3+T cells"	0.31
+782	"CD56high NK cells"	0.36
+782	"CD8Tcells"	10.4
+782	"cDC1"	0.00442
+782	"cDC2"	0.58
+782	"Classical_Monocytes"	26.3
+782	"Conventional dendritic cells (cDCs)"	0.59
+782	"Intermediate_Monocytes"	0.55
+782	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.2
+782	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.3
+782	"MB doublets (CD19+CD14+)"	0.016
+782	"Memory B cells"	0.5
+782	"Monocytes"	29.3
+782	"Naive B cells"	3.58
+782	"NaiveCD4"	20.2
+782	"NaiveCD8"	8.41
+782	"NK"	16.1
+782	"NK cells (CD3-CD19-CD56+)"	16.6
+782	"Non-Classical_Monocytes"	1.19
+782	"non-pDCs"	0.7
+782	"pDC"	0.23
+782	"Proliferating B cells"	0.13
+782	"T cells (CD19-CD3+CD14-)"	46.3
+782	"TcmCD4"	7.66
+782	"TcmCD8"	0.72
+782	"TemCD4"	3.05
+782	"TemCD8"	0.53
+782	"TemraCD4"	0.063
+782	"TemraCD8"	0.74
+782	"T:M doublets (CD19-CD3+CD14+)"	0.14
+932	"Activated B cells (ABCs)"	0.21
+932	"Activated granulocytes"	0.013
+932	"ASCs (Plasmablasts)"	0.027
+932	"Basophils"	0.61
+932	"Bcells"	4.75
+932	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.71
+932	"B cells (CD19+CD3-CD14-CD56-)"	4.73
+932	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.019
+932	"CD19-CD3-"	28.9
+932	"CD19+ CD3-"	5.18
+932	"CD3CD19"	0.22
+932	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.024
+932	"CD3-CD19-CD56- cells"	16.4
+932	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.82
+932	"CD3CD19neg"	65.7
+932	"CD3 Tcells"	63.4
+932	"CD4+CD8+ T cells"	0.15
+932	"CD4-CD8- T cells"	5.52
+932	"CD4Tcells"	32.2
+932	"CD56+ CD3high T cells"	0.89
+932	"CD56+CD3+T cells"	0.81
+932	"CD56high NK cells"	0.23
+932	"CD8Tcells"	24.4
+932	"cDC1"	0.058
+932	"cDC2"	0.73
+932	"Classical_Monocytes"	8.82
+932	"Conventional dendritic cells (cDCs)"	0.86
+932	"Intermediate_Monocytes"	1.84
+932	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	1.65
+932	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.02
+932	"MB doublets (CD19+CD14+)"	0.4
+932	"Memory B cells"	0.58
+932	"Monocytes"	14.1
+932	"Naive B cells"	3.86
+932	"NaiveCD4"	22.6
+932	"NaiveCD8"	18.9
+932	"NK"	11.9
+932	"NK cells (CD3-CD19-CD56+)"	12.1
+932	"Non-Classical_Monocytes"	1.4
+932	"non-pDCs"	0.88
+932	"pDC"	0.64
+932	"Proliferating B cells"	0.24
+932	"T cells (CD19-CD3+CD14-)"	65.3
+932	"TcmCD4"	7.7
+932	"TcmCD8"	0.67
+932	"TemCD4"	1.79
+932	"TemCD8"	3.26
+932	"TemraCD4"	0.049
+932	"TemraCD8"	1.53
+932	"T:M doublets (CD19-CD3+CD14+)"	0.2
+851	"Activated B cells (ABCs)"	0.35
+851	"Activated granulocytes"	0.017
+851	"ASCs (Plasmablasts)"	0.1
+851	"Basophils"	2.61
+851	"Bcells"	4.22
+851	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.07
+851	"B cells (CD19+CD3-CD14-CD56-)"	4.2
+851	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.021
+851	"CD19-CD3-"	36.2
+851	"CD19+ CD3-"	4.24
+851	"CD3CD19"	0.13
+851	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.21
+851	"CD3-CD19-CD56- cells"	23.4
+851	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.85
+851	"CD3CD19neg"	59.4
+851	"CD3 Tcells"	56.5
+851	"CD4+CD8+ T cells"	0.19
+851	"CD4-CD8- T cells"	5.04
+851	"CD4Tcells"	36.8
+851	"CD56+ CD3high T cells"	1.6
+851	"CD56+CD3+T cells"	0.9
+851	"CD56high NK cells"	0.21
+851	"CD8Tcells"	13.9
+851	"cDC1"	0.016
+851	"cDC2"	0.8
+851	"Classical_Monocytes"	15
+851	"Conventional dendritic cells (cDCs)"	0.85
+851	"Intermediate_Monocytes"	0.63
+851	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.65
+851	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.02
+851	"MB doublets (CD19+CD14+)"	0.016
+851	"Memory B cells"	1.07
+851	"Monocytes"	19.4
+851	"Naive B cells"	2.64
+851	"NaiveCD4"	26.8
+851	"NaiveCD8"	6.56
+851	"NK"	12.3
+851	"NK cells (CD3-CD19-CD56+)"	12.5
+851	"Non-Classical_Monocytes"	1.91
+851	"non-pDCs"	1.07
+851	"pDC"	0.55
+851	"Proliferating B cells"	0.45
+851	"T cells (CD19-CD3+CD14-)"	59.2
+851	"TcmCD4"	7.91
+851	"TcmCD8"	0.72
+851	"TemCD4"	1.92
+851	"TemCD8"	1.79
+851	"TemraCD4"	0.089
+851	"TemraCD8"	4.84
+851	"T:M doublets (CD19-CD3+CD14+)"	0.19
+780	"Activated B cells (ABCs)"	0.14
+780	"Activated granulocytes"	0.00756
+780	"ASCs (Plasmablasts)"	0.049
+780	"Basophils"	0.53
+780	"Bcells"	4.56
+780	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.45
+780	"B cells (CD19+CD3-CD14-CD56-)"	4.55
+780	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.012
+780	"CD19-CD3-"	30.6
+780	"CD19+ CD3-"	4.57
+780	"CD3CD19"	0.042
+780	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.086
+780	"CD3-CD19-CD56- cells"	14.6
+780	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	0.77
+780	"CD3CD19neg"	64.8
+780	"CD3 Tcells"	63.8
+780	"CD4+CD8+ T cells"	0.25
+780	"CD4-CD8- T cells"	3.53
+780	"CD4Tcells"	46.1
+780	"CD56+ CD3high T cells"	0.45
+780	"CD56+CD3+T cells"	0.39
+780	"CD56high NK cells"	0.57
+780	"CD8Tcells"	13.6
+780	"cDC1"	0.00405
+780	"cDC2"	0.24
+780	"Classical_Monocytes"	10.8
+780	"Conventional dendritic cells (cDCs)"	0.25
+780	"Intermediate_Monocytes"	0.21
+780	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	1.72
+780	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.18
+780	"MB doublets (CD19+CD14+)"	0.00729
+780	"Memory B cells"	0.71
+780	"Monocytes"	12.9
+780	"Naive B cells"	3.65
+780	"NaiveCD4"	31.3
+780	"NaiveCD8"	11.3
+780	"NK"	15
+780	"NK cells (CD3-CD19-CD56+)"	15.7
+780	"Non-Classical_Monocytes"	1.03
+780	"non-pDCs"	0.34
+780	"pDC"	0.18
+780	"Proliferating B cells"	0.19
+780	"T cells (CD19-CD3+CD14-)"	64.7
+780	"TcmCD4"	11.7
+780	"TcmCD8"	0.91
+780	"TemCD4"	3.05
+780	"TemCD8"	0.58
+780	"TemraCD4"	0.074
+780	"TemraCD8"	0.76
+780	"T:M doublets (CD19-CD3+CD14+)"	0.091
+830	"Activated B cells (ABCs)"	0.31
+830	"Activated granulocytes"	0.00993
+830	"ASCs (Plasmablasts)"	0.055
+830	"Basophils"	2.14
+830	"Bcells"	3.9
+830	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.81
+830	"B cells (CD19+CD3-CD14-CD56-)"	3.89
+830	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.01
+830	"CD19-CD3-"	27.5
+830	"CD19+ CD3-"	3.91
+830	"CD3CD19"	0.05
+830	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.15
+830	"CD3-CD19-CD56- cells"	20.1
+830	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.75
+830	"CD3CD19neg"	68.6
+830	"CD3 Tcells"	66.9
+830	"CD4+CD8+ T cells"	0.17
+830	"CD4-CD8- T cells"	2.99
+830	"CD4Tcells"	46.4
+830	"CD56+ CD3high T cells"	0.82
+830	"CD56+CD3+T cells"	0.65
+830	"CD56high NK cells"	0.36
+830	"CD8Tcells"	16.7
+830	"cDC1"	0.012
+830	"cDC2"	0.78
+830	"Classical_Monocytes"	12.8
+830	"Conventional dendritic cells (cDCs)"	0.82
+830	"Intermediate_Monocytes"	0.42
+830	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.6
+830	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.45
+830	"MB doublets (CD19+CD14+)"	0.00883
+830	"Memory B cells"	1.08
+830	"Monocytes"	16.2
+830	"Naive B cells"	2.4
+830	"NaiveCD4"	32.7
+830	"NaiveCD8"	10.4
+830	"NK"	6.66
+830	"NK cells (CD3-CD19-CD56+)"	7.01
+830	"Non-Classical_Monocytes"	1.21
+830	"non-pDCs"	0.98
+830	"pDC"	0.52
+830	"Proliferating B cells"	0.36
+830	"T cells (CD19-CD3+CD14-)"	68.5
+830	"TcmCD4"	11.9
+830	"TcmCD8"	1.16
+830	"TemCD4"	1.74
+830	"TemCD8"	1.6
+830	"TemraCD4"	0.057
+830	"TemraCD8"	3.64
+830	"T:M doublets (CD19-CD3+CD14+)"	0.063
+791	"Activated B cells (ABCs)"	0.032
+791	"Activated granulocytes"	0.046
+791	"ASCs (Plasmablasts)"	0.011
+791	"Basophils"	0.48
+791	"Bcells"	2.99
+791	"B cells (CD19+CD20+CD3-CD14-CD56-)"	2.96
+791	"B cells (CD19+CD3-CD14-CD56-)"	2.98
+791	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00507
+791	"CD19-CD3-"	36.4
+791	"CD19+ CD3-"	3
+791	"CD3CD19"	0.074
+791	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.097
+791	"CD3-CD19-CD56- cells"	23.5
+791	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.38
+791	"CD3CD19neg"	60.5
+791	"CD3 Tcells"	52.2
+791	"CD4+CD8+ T cells"	0.17
+791	"CD4-CD8- T cells"	1.83
+791	"CD4Tcells"	23.9
+791	"CD56+ CD3high T cells"	1.07
+791	"CD56+CD3+T cells"	7.1
+791	"CD56high NK cells"	0.4
+791	"CD8Tcells"	26
+791	"cDC1"	0
+791	"cDC2"	0.79
+791	"Classical_Monocytes"	16.7
+791	"Conventional dendritic cells (cDCs)"	0.82
+791	"Intermediate_Monocytes"	0.9
+791	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.14
+791	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.61
+791	"MB doublets (CD19+CD14+)"	0.015
+791	"Memory B cells"	0.28
+791	"Monocytes"	21.4
+791	"Naive B cells"	2.65
+791	"NaiveCD4"	13.2
+791	"NaiveCD8"	17.2
+791	"NK"	12.4
+791	"NK cells (CD3-CD19-CD56+)"	12.8
+791	"Non-Classical_Monocytes"	2.22
+791	"non-pDCs"	0.92
+791	"pDC"	0.29
+791	"Proliferating B cells"	0.044
+791	"T cells (CD19-CD3+CD14-)"	60.4
+791	"TcmCD4"	5.95
+791	"TcmCD8"	0.23
+791	"TemCD4"	4.52
+791	"TemCD8"	1.51
+791	"TemraCD4"	0.25
+791	"TemraCD8"	7.05
+791	"T:M doublets (CD19-CD3+CD14+)"	0.064
+871	"Activated B cells (ABCs)"	0.14
+871	"Activated granulocytes"	0.027
+871	"ASCs (Plasmablasts)"	0.041
+871	"Basophils"	1.2
+871	"Bcells"	4.01
+871	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.94
+871	"B cells (CD19+CD3-CD14-CD56-)"	4
+871	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00635
+871	"CD19-CD3-"	58.4
+871	"CD19+ CD3-"	4.02
+871	"CD3CD19"	0.024
+871	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.18
+871	"CD3-CD19-CD56- cells"	41.8
+871	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.81
+871	"CD3CD19neg"	37.6
+871	"CD3 Tcells"	36.4
+871	"CD4+CD8+ T cells"	0.3
+871	"CD4-CD8- T cells"	1.44
+871	"CD4Tcells"	22.9
+871	"CD56+ CD3high T cells"	0.13
+871	"CD56+CD3+T cells"	0.73
+871	"CD56high NK cells"	0.74
+871	"CD8Tcells"	11.1
+871	"cDC1"	0.00276
+871	"cDC2"	0.94
+871	"Classical_Monocytes"	29.9
+871	"Conventional dendritic cells (cDCs)"	0.96
+871	"Intermediate_Monocytes"	3.18
+871	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	4.41
+871	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	3.18
+871	"MB doublets (CD19+CD14+)"	0.015
+871	"Memory B cells"	0.51
+871	"Monocytes"	36.2
+871	"Naive B cells"	3.31
+871	"NaiveCD4"	13.1
+871	"NaiveCD8"	5
+871	"NK"	15.4
+871	"NK cells (CD3-CD19-CD56+)"	16.1
+871	"Non-Classical_Monocytes"	1
+871	"non-pDCs"	1.13
+871	"pDC"	0.29
+871	"Proliferating B cells"	0.18
+871	"T cells (CD19-CD3+CD14-)"	37.3
+871	"TcmCD4"	6.21
+871	"TcmCD8"	1.12
+871	"TemCD4"	3.39
+871	"TemCD8"	2.69
+871	"TemraCD4"	0.21
+871	"TemraCD8"	2.34
+871	"T:M doublets (CD19-CD3+CD14+)"	0.22
+881	"Activated B cells (ABCs)"	0.089
+881	"Activated granulocytes"	0.026
+881	"ASCs (Plasmablasts)"	0.015
+881	"Basophils"	0.94
+881	"Bcells"	1.7
+881	"B cells (CD19+CD20+CD3-CD14-CD56-)"	1.68
+881	"B cells (CD19+CD3-CD14-CD56-)"	1.7
+881	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00374
+881	"CD19-CD3-"	31.5
+881	"CD19+ CD3-"	1.71
+881	"CD3CD19"	0.019
+881	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.27
+881	"CD3-CD19-CD56- cells"	21.1
+881	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.94
+881	"CD3CD19neg"	66.8
+881	"CD3 Tcells"	66.1
+881	"CD4+CD8+ T cells"	0.098
+881	"CD4-CD8- T cells"	3.88
+881	"CD4Tcells"	41.1
+881	"CD56+ CD3high T cells"	0.28
+881	"CD56+CD3+T cells"	0.27
+881	"CD56high NK cells"	0.54
+881	"CD8Tcells"	19.9
+881	"cDC1"	0.0016
+881	"cDC2"	0.79
+881	"Classical_Monocytes"	15
+881	"Conventional dendritic cells (cDCs)"	0.81
+881	"Intermediate_Monocytes"	0.77
+881	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.18
+881	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.22
+881	"MB doublets (CD19+CD14+)"	0.00748
+881	"Memory B cells"	0.45
+881	"Monocytes"	18.6
+881	"Naive B cells"	1.14
+881	"NaiveCD4"	31.3
+881	"NaiveCD8"	15.4
+881	"NK"	9.48
+881	"NK cells (CD3-CD19-CD56+)"	10
+881	"Non-Classical_Monocytes"	0.74
+881	"non-pDCs"	1.08
+881	"pDC"	0.59
+881	"Proliferating B cells"	0.11
+881	"T cells (CD19-CD3+CD14-)"	66.7
+881	"TcmCD4"	6.2
+881	"TcmCD8"	0.47
+881	"TemCD4"	3.35
+881	"TemCD8"	2.35
+881	"TemraCD4"	0.29
+881	"TemraCD8"	1.77
+881	"T:M doublets (CD19-CD3+CD14+)"	0.11
+821	"Activated B cells (ABCs)"	0.12
+821	"Activated granulocytes"	0.00811
+821	"ASCs (Plasmablasts)"	0.00659
+821	"Basophils"	0.44
+821	"Bcells"	4.22
+821	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.17
+821	"B cells (CD19+CD3-CD14-CD56-)"	4.19
+821	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.024
+821	"CD19-CD3-"	28
+821	"CD19+ CD3-"	4.24
+821	"CD3CD19"	0.037
+821	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.06
+821	"CD3-CD19-CD56- cells"	20.2
+821	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.76
+821	"CD3CD19neg"	67.7
+821	"CD3 Tcells"	63.6
+821	"CD4+CD8+ T cells"	0.28
+821	"CD4-CD8- T cells"	3.38
+821	"CD4Tcells"	40.6
+821	"CD56+ CD3high T cells"	2.92
+821	"CD56+CD3+T cells"	0.86
+821	"CD56high NK cells"	0.54
+821	"CD8Tcells"	18.9
+821	"cDC1"	0.00811
+821	"cDC2"	0.68
+821	"Classical_Monocytes"	13.9
+821	"Conventional dendritic cells (cDCs)"	0.74
+821	"Intermediate_Monocytes"	0.41
+821	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	1.36
+821	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	0.9
+821	"MB doublets (CD19+CD14+)"	0.017
+821	"Memory B cells"	0.42
+821	"Monocytes"	18.5
+821	"Naive B cells"	3.63
+821	"NaiveCD4"	25.4
+821	"NaiveCD8"	13.5
+821	"NK"	6.86
+821	"NK cells (CD3-CD19-CD56+)"	7.41
+821	"Non-Classical_Monocytes"	2.33
+821	"non-pDCs"	0.8
+821	"pDC"	0.76
+821	"Proliferating B cells"	0.12
+821	"T cells (CD19-CD3+CD14-)"	67.6
+821	"TcmCD4"	13
+821	"TcmCD8"	1.17
+821	"TemCD4"	1.92
+821	"TemCD8"	0.99
+821	"TemraCD4"	0.23
+821	"TemraCD8"	3.19
+821	"T:M doublets (CD19-CD3+CD14+)"	0.1
+902	"Activated B cells (ABCs)"	0.25
+902	"Activated granulocytes"	0.011
+902	"ASCs (Plasmablasts)"	0.049
+902	"Basophils"	0.41
+902	"Bcells"	7.18
+902	"B cells (CD19+CD20+CD3-CD14-CD56-)"	7.04
+902	"B cells (CD19+CD3-CD14-CD56-)"	7.13
+902	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.043
+902	"CD19-CD3-"	31.6
+902	"CD19+ CD3-"	7.2
+902	"CD3CD19"	0.074
+902	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.16
+902	"CD3-CD19-CD56- cells"	25.1
+902	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.52
+902	"CD3CD19neg"	61.1
+902	"CD3 Tcells"	58.5
+902	"CD4+CD8+ T cells"	0.16
+902	"CD4-CD8- T cells"	2.69
+902	"CD4Tcells"	27.4
+902	"CD56+ CD3high T cells"	0.38
+902	"CD56+CD3+T cells"	1.81
+902	"CD56high NK cells"	0.45
+902	"CD8Tcells"	27.7
+902	"cDC1"	0.00561
+902	"cDC2"	0.63
+902	"Classical_Monocytes"	12.9
+902	"Conventional dendritic cells (cDCs)"	0.69
+902	"Intermediate_Monocytes"	1.53
+902	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	5.45
+902	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	5.03
+902	"MB doublets (CD19+CD14+)"	0.023
+902	"Memory B cells"	1.12
+902	"Monocytes"	18
+902	"Naive B cells"	5.65
+902	"NaiveCD4"	19.2
+902	"NaiveCD8"	22.8
+902	"NK"	5.44
+902	"NK cells (CD3-CD19-CD56+)"	5.9
+902	"Non-Classical_Monocytes"	1.96
+902	"non-pDCs"	0.86
+902	"pDC"	0.52
+902	"Proliferating B cells"	0.3
+902	"T cells (CD19-CD3+CD14-)"	60.9
+902	"TcmCD4"	4.31
+902	"TcmCD8"	0.43
+902	"TemCD4"	3.6
+902	"TemCD8"	1.09
+902	"TemraCD4"	0.29
+902	"TemraCD8"	3.32
+902	"T:M doublets (CD19-CD3+CD14+)"	0.19
+772	"Activated B cells (ABCs)"	0.14
+772	"Activated granulocytes"	0.00764
+772	"ASCs (Plasmablasts)"	0.059
+772	"Basophils"	0.81
+772	"Bcells"	3.78
+772	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.67
+772	"B cells (CD19+CD3-CD14-CD56-)"	3.76
+772	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.011
+772	"CD19-CD3-"	37.3
+772	"CD19+ CD3-"	3.79
+772	"CD3CD19"	0.024
+772	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.088
+772	"CD3-CD19-CD56- cells"	22.2
+772	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.15
+772	"CD3CD19neg"	58.9
+772	"CD3 Tcells"	57.7
+772	"CD4+CD8+ T cells"	1.09
+772	"CD4-CD8- T cells"	2.73
+772	"CD4Tcells"	34.1
+772	"CD56+ CD3high T cells"	0.67
+772	"CD56+CD3+T cells"	0.28
+772	"CD56high NK cells"	0.49
+772	"CD8Tcells"	19.4
+772	"cDC1"	0.011
+772	"cDC2"	0.48
+772	"Classical_Monocytes"	17.4
+772	"Conventional dendritic cells (cDCs)"	0.5
+772	"Intermediate_Monocytes"	0.43
+772	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	1.89
+772	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.07
+772	"MB doublets (CD19+CD14+)"	0.00821
+772	"Memory B cells"	0.65
+772	"Monocytes"	20.3
+772	"Naive B cells"	2.9
+772	"NaiveCD4"	21.9
+772	"NaiveCD8"	13.3
+772	"NK"	14.3
+772	"NK cells (CD3-CD19-CD56+)"	14.9
+772	"Non-Classical_Monocytes"	1.3
+772	"non-pDCs"	0.59
+772	"pDC"	0.2
+772	"Proliferating B cells"	0.2
+772	"T cells (CD19-CD3+CD14-)"	58.8
+772	"TcmCD4"	9.6
+772	"TcmCD8"	3.21
+772	"TemCD4"	2.5
+772	"TemCD8"	1.11
+772	"TemraCD4"	0.086
+772	"TemraCD8"	1.8
+772	"T:M doublets (CD19-CD3+CD14+)"	0.068
+740	"Activated B cells (ABCs)"	0.027
+740	"Activated granulocytes"	0.049
+740	"ASCs (Plasmablasts)"	0.06
+740	"Basophils"	0.89
+740	"Bcells"	4.48
+740	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.39
+740	"B cells (CD19+CD3-CD14-CD56-)"	4.47
+740	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.016
+740	"CD19-CD3-"	31.7
+740	"CD19+ CD3-"	4.49
+740	"CD3CD19"	0.064
+740	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.11
+740	"CD3-CD19-CD56- cells"	20.2
+740	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.65
+740	"CD3CD19neg"	63.7
+740	"CD3 Tcells"	61.8
+740	"CD4+CD8+ T cells"	0.2
+740	"CD4-CD8- T cells"	1.62
+740	"CD4Tcells"	38.2
+740	"CD56+ CD3high T cells"	0.93
+740	"CD56+CD3+T cells"	0.89
+740	"CD56high NK cells"	0.85
+740	"CD8Tcells"	21.5
+740	"cDC1"	0.011
+740	"cDC2"	0.64
+740	"Classical_Monocytes"	13
+740	"Conventional dendritic cells (cDCs)"	0.69
+740	"Intermediate_Monocytes"	0.57
+740	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.98
+740	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.04
+740	"MB doublets (CD19+CD14+)"	0.00997
+740	"Memory B cells"	0.48
+740	"Monocytes"	17.3
+740	"Naive B cells"	3.89
+740	"NaiveCD4"	23.3
+740	"NaiveCD8"	14.2
+740	"NK"	10.4
+740	"NK cells (CD3-CD19-CD56+)"	11.3
+740	"Non-Classical_Monocytes"	1.98
+740	"non-pDCs"	0.8
+740	"pDC"	0.67
+740	"Proliferating B cells"	0.088
+740	"T cells (CD19-CD3+CD14-)"	63.7
+740	"TcmCD4"	9.28
+740	"TcmCD8"	0.44
+740	"TemCD4"	5.11
+740	"TemCD8"	2.61
+740	"TemraCD4"	0.47
+740	"TemraCD8"	4.27
+740	"T:M doublets (CD19-CD3+CD14+)"	0.04
+892	"Activated B cells (ABCs)"	0.19
+892	"Activated granulocytes"	0.013
+892	"ASCs (Plasmablasts)"	0.021
+892	"Basophils"	0.43
+892	"Bcells"	3.72
+892	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.69
+892	"B cells (CD19+CD3-CD14-CD56-)"	3.72
+892	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00778
+892	"CD19-CD3-"	41.9
+892	"CD19+ CD3-"	3.74
+892	"CD3CD19"	0.026
+892	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.2
+892	"CD3-CD19-CD56- cells"	21.4
+892	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.61
+892	"CD3CD19neg"	54.4
+892	"CD3 Tcells"	45.2
+892	"CD4+CD8+ T cells"	0.062
+892	"CD4-CD8- T cells"	3.88
+892	"CD4Tcells"	24.9
+892	"CD56+ CD3high T cells"	1.09
+892	"CD56+CD3+T cells"	7.37
+892	"CD56high NK cells"	0.44
+892	"CD8Tcells"	15.7
+892	"cDC1"	0
+892	"cDC2"	0.65
+892	"Classical_Monocytes"	13.8
+892	"Conventional dendritic cells (cDCs)"	0.67
+892	"Intermediate_Monocytes"	0.63
+892	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.42
+892	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.98
+892	"MB doublets (CD19+CD14+)"	0.015
+892	"Memory B cells"	0.91
+892	"Monocytes"	18.5
+892	"Naive B cells"	2.57
+892	"NaiveCD4"	16.6
+892	"NaiveCD8"	9.63
+892	"NK"	19.7
+892	"NK cells (CD3-CD19-CD56+)"	20.1
+892	"Non-Classical_Monocytes"	2.28
+892	"non-pDCs"	0.88
+892	"pDC"	0.25
+892	"Proliferating B cells"	0.21
+892	"T cells (CD19-CD3+CD14-)"	54.2
+892	"TcmCD4"	5.53
+892	"TcmCD8"	0.24
+892	"TemCD4"	2.44
+892	"TemCD8"	0.7
+892	"TemraCD4"	0.35
+892	"TemraCD8"	5.08
+892	"T:M doublets (CD19-CD3+CD14+)"	0.23
+860	"Activated B cells (ABCs)"	0.063
+860	"Activated granulocytes"	0.017
+860	"ASCs (Plasmablasts)"	0.02
+860	"Basophils"	0.4
+860	"Bcells"	1.57
+860	"B cells (CD19+CD20+CD3-CD14-CD56-)"	1.52
+860	"B cells (CD19+CD3-CD14-CD56-)"	1.56
+860	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.014
+860	"CD19-CD3-"	34.8
+860	"CD19+ CD3-"	1.58
+860	"CD3CD19"	0.013
+860	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.091
+860	"CD3-CD19-CD56- cells"	17.3
+860	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.04
+860	"CD3CD19neg"	63.6
+860	"CD3 Tcells"	54
+860	"CD4+CD8+ T cells"	0.051
+860	"CD4-CD8- T cells"	1.97
+860	"CD4Tcells"	37.2
+860	"CD56+ CD3high T cells"	5.78
+860	"CD56+CD3+T cells"	1.98
+860	"CD56high NK cells"	0.55
+860	"CD8Tcells"	14.4
+860	"cDC1"	0.012
+860	"cDC2"	0.63
+860	"Classical_Monocytes"	10.6
+860	"Conventional dendritic cells (cDCs)"	0.66
+860	"Intermediate_Monocytes"	0.54
+860	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	1.91
+860	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.5
+860	"MB doublets (CD19+CD14+)"	0.011
+860	"Memory B cells"	0.25
+860	"Monocytes"	14.9
+860	"Naive B cells"	1.23
+860	"NaiveCD4"	33.3
+860	"NaiveCD8"	13.6
+860	"NK"	16.1
+860	"NK cells (CD3-CD19-CD56+)"	16.6
+860	"Non-Classical_Monocytes"	1.59
+860	"non-pDCs"	0.75
+860	"pDC"	0.87
+860	"Proliferating B cells"	0.083
+860	"T cells (CD19-CD3+CD14-)"	63.5
+860	"TcmCD4"	2.98
+860	"TcmCD8"	0.00743
+860	"TemCD4"	0.47
+860	"TemCD8"	0.00186
+860	"TemraCD4"	0.43
+860	"TemraCD8"	0.77
+860	"T:M doublets (CD19-CD3+CD14+)"	0.076
+792	"Activated B cells (ABCs)"	0.037
+792	"Activated granulocytes"	0.031
+792	"ASCs (Plasmablasts)"	0.00921
+792	"Basophils"	0.57
+792	"Bcells"	3.42
+792	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.4
+792	"B cells (CD19+CD3-CD14-CD56-)"	3.41
+792	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00384
+792	"CD19-CD3-"	38
+792	"CD19+ CD3-"	3.43
+792	"CD3CD19"	0.18
+792	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.15
+792	"CD3-CD19-CD56- cells"	27.4
+792	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.69
+792	"CD3CD19neg"	58.4
+792	"CD3 Tcells"	51.4
+792	"CD4+CD8+ T cells"	0.15
+792	"CD4-CD8- T cells"	1.75
+792	"CD4Tcells"	24.1
+792	"CD56+ CD3high T cells"	0.88
+792	"CD56+CD3+T cells"	6
+792	"CD56high NK cells"	0.49
+792	"CD8Tcells"	25
+792	"cDC1"	0
+792	"cDC2"	0.77
+792	"Classical_Monocytes"	19
+792	"Conventional dendritic cells (cDCs)"	0.81
+792	"Intermediate_Monocytes"	1.08
+792	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.64
+792	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.05
+792	"MB doublets (CD19+CD14+)"	0.015
+792	"Memory B cells"	0.41
+792	"Monocytes"	24.8
+792	"Naive B cells"	2.95
+792	"NaiveCD4"	14.5
+792	"NaiveCD8"	16.9
+792	"NK"	9.95
+792	"NK cells (CD3-CD19-CD56+)"	10.4
+792	"Non-Classical_Monocytes"	2.84
+792	"non-pDCs"	0.96
+792	"pDC"	0.37
+792	"Proliferating B cells"	0.048
+792	"T cells (CD19-CD3+CD14-)"	58.3
+792	"TcmCD4"	6.09
+792	"TcmCD8"	0.28
+792	"TemCD4"	3.4
+792	"TemCD8"	1.38
+792	"TemraCD4"	0.17
+792	"TemraCD8"	6.38
+792	"T:M doublets (CD19-CD3+CD14+)"	0.053
+741	"Activated B cells (ABCs)"	0.027
+741	"Activated granulocytes"	0.075
+741	"ASCs (Plasmablasts)"	0.056
+741	"Basophils"	1.6
+741	"Bcells"	5.6
+741	"B cells (CD19+CD20+CD3-CD14-CD56-)"	5.52
+741	"B cells (CD19+CD3-CD14-CD56-)"	5.58
+741	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.014
+741	"CD19-CD3-"	28.7
+741	"CD19+ CD3-"	5.61
+741	"CD3CD19"	0.1
+741	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.11
+741	"CD3-CD19-CD56- cells"	16.8
+741	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.96
+741	"CD3CD19neg"	65.6
+741	"CD3 Tcells"	63.6
+741	"CD4+CD8+ T cells"	0.21
+741	"CD4-CD8- T cells"	1.82
+741	"CD4Tcells"	39.2
+741	"CD56+ CD3high T cells"	0.99
+741	"CD56+CD3+T cells"	0.97
+741	"CD56high NK cells"	0.98
+741	"CD8Tcells"	22
+741	"cDC1"	0.012
+741	"cDC2"	0.68
+741	"Classical_Monocytes"	9.62
+741	"Conventional dendritic cells (cDCs)"	0.75
+741	"Intermediate_Monocytes"	0.4
+741	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.34
+741	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.66
+741	"MB doublets (CD19+CD14+)"	0.0094
+741	"Memory B cells"	0.58
+741	"Monocytes"	13.5
+741	"Naive B cells"	4.9
+741	"NaiveCD4"	25.2
+741	"NaiveCD8"	15.2
+741	"NK"	10.7
+741	"NK cells (CD3-CD19-CD56+)"	11.7
+741	"Non-Classical_Monocytes"	1.41
+741	"non-pDCs"	0.87
+741	"pDC"	0.86
+741	"Proliferating B cells"	0.085
+741	"T cells (CD19-CD3+CD14-)"	65.6
+741	"TcmCD4"	8.78
+741	"TcmCD8"	0.43
+741	"TemCD4"	4.79
+741	"TemCD8"	2.38
+741	"TemraCD4"	0.46
+741	"TemraCD8"	3.97
+741	"T:M doublets (CD19-CD3+CD14+)"	0.019
+802	"Activated B cells (ABCs)"	0.46
+802	"Activated granulocytes"	0.031
+802	"ASCs (Plasmablasts)"	0.062
+802	"Basophils"	1.15
+802	"Bcells"	16.4
+802	"B cells (CD19+CD20+CD3-CD14-CD56-)"	16.2
+802	"B cells (CD19+CD3-CD14-CD56-)"	16.3
+802	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.079
+802	"CD19-CD3-"	38.2
+802	"CD19+ CD3-"	16.4
+802	"CD3CD19"	0.1
+802	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.078
+802	"CD3-CD19-CD56- cells"	23.2
+802	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.65
+802	"CD3CD19neg"	45.3
+802	"CD3 Tcells"	40.5
+802	"CD4+CD8+ T cells"	0.12
+802	"CD4-CD8- T cells"	2.32
+802	"CD4Tcells"	23.9
+802	"CD56+ CD3high T cells"	2.13
+802	"CD56+CD3+T cells"	2.2
+802	"CD56high NK cells"	0.66
+802	"CD8Tcells"	13.4
+802	"cDC1"	0.00646
+802	"cDC2"	0.37
+802	"Classical_Monocytes"	12.8
+802	"Conventional dendritic cells (cDCs)"	0.39
+802	"Intermediate_Monocytes"	0.95
+802	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	4.98
+802	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	3.79
+802	"MB doublets (CD19+CD14+)"	0.02
+802	"Memory B cells"	1.2
+802	"Monocytes"	17
+802	"Naive B cells"	14.5
+802	"NaiveCD4"	15.6
+802	"NaiveCD8"	8.89
+802	"NK"	13.8
+802	"NK cells (CD3-CD19-CD56+)"	14.4
+802	"Non-Classical_Monocytes"	1.61
+802	"non-pDCs"	0.48
+802	"pDC"	0.79
+802	"Proliferating B cells"	0.53
+802	"T cells (CD19-CD3+CD14-)"	45.2
+802	"TcmCD4"	6.4
+802	"TcmCD8"	0.82
+802	"TemCD4"	1.8
+802	"TemCD8"	1.71
+802	"TemraCD4"	0.08
+802	"TemraCD8"	2.02
+802	"T:M doublets (CD19-CD3+CD14+)"	0.12
+771	"Activated B cells (ABCs)"	0.18
+771	"Activated granulocytes"	0.018
+771	"ASCs (Plasmablasts)"	0.066
+771	"Basophils"	1.02
+771	"Bcells"	3.87
+771	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.74
+771	"B cells (CD19+CD3-CD14-CD56-)"	3.85
+771	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.016
+771	"CD19-CD3-"	36.9
+771	"CD19+ CD3-"	3.91
+771	"CD3CD19"	0.1
+771	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.067
+771	"CD3-CD19-CD56- cells"	22.3
+771	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.16
+771	"CD3CD19neg"	59
+771	"CD3 Tcells"	55.8
+771	"CD4+CD8+ T cells"	1.12
+771	"CD4-CD8- T cells"	2.99
+771	"CD4Tcells"	32.6
+771	"CD56+ CD3high T cells"	1.53
+771	"CD56+CD3+T cells"	1.1
+771	"CD56high NK cells"	0.43
+771	"CD8Tcells"	18.7
+771	"cDC1"	0.011
+771	"cDC2"	0.52
+771	"Classical_Monocytes"	17.7
+771	"Conventional dendritic cells (cDCs)"	0.53
+771	"Intermediate_Monocytes"	0.38
+771	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.02
+771	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	0.97
+771	"MB doublets (CD19+CD14+)"	0.042
+771	"Memory B cells"	0.74
+771	"Monocytes"	20.2
+771	"Naive B cells"	2.84
+771	"NaiveCD4"	19.5
+771	"NaiveCD8"	12
+771	"NK"	13.9
+771	"NK cells (CD3-CD19-CD56+)"	14.4
+771	"Non-Classical_Monocytes"	0.93
+771	"non-pDCs"	0.6
+771	"pDC"	0.21
+771	"Proliferating B cells"	0.25
+771	"T cells (CD19-CD3+CD14-)"	59
+771	"TcmCD4"	10.1
+771	"TcmCD8"	3.59
+771	"TemCD4"	2.9
+771	"TemCD8"	1.34
+771	"TemraCD4"	0.079
+771	"TemraCD8"	1.73
+771	"T:M doublets (CD19-CD3+CD14+)"	0.078
+859	"Activated B cells (ABCs)"	0.11
+859	"Activated granulocytes"	0.019
+859	"ASCs (Plasmablasts)"	0.039
+859	"Basophils"	0.85
+859	"Bcells"	3.1
+859	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.04
+859	"B cells (CD19+CD3-CD14-CD56-)"	3.09
+859	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.014
+859	"CD19-CD3-"	34.1
+859	"CD19+ CD3-"	3.11
+859	"CD3CD19"	0.037
+859	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.11
+859	"CD3-CD19-CD56- cells"	18.4
+859	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.64
+859	"CD3CD19neg"	62.8
+859	"CD3 Tcells"	61.6
+859	"CD4+CD8+ T cells"	0.066
+859	"CD4-CD8- T cells"	1.76
+859	"CD4Tcells"	47.7
+859	"CD56+ CD3high T cells"	0.46
+859	"CD56+CD3+T cells"	0.41
+859	"CD56high NK cells"	0.65
+859	"CD8Tcells"	11.6
+859	"cDC1"	0.00775
+859	"cDC2"	0.81
+859	"Classical_Monocytes"	10.4
+859	"Conventional dendritic cells (cDCs)"	0.83
+859	"Intermediate_Monocytes"	0.68
+859	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.84
+859	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.97
+859	"MB doublets (CD19+CD14+)"	0.01
+859	"Memory B cells"	0.48
+859	"Monocytes"	14.9
+859	"Naive B cells"	2.46
+859	"NaiveCD4"	44.8
+859	"NaiveCD8"	11.1
+859	"NK"	14.6
+859	"NK cells (CD3-CD19-CD56+)"	15.3
+859	"Non-Classical_Monocytes"	1.06
+859	"non-pDCs"	0.94
+859	"pDC"	1.4
+859	"Proliferating B cells"	0.15
+859	"T cells (CD19-CD3+CD14-)"	62.6
+859	"TcmCD4"	2.1
+859	"TcmCD8"	0.013
+859	"TemCD4"	0.36
+859	"TemCD8"	0.00317
+859	"TemraCD4"	0.41
+859	"TemraCD8"	0.54
+859	"T:M doublets (CD19-CD3+CD14+)"	0.11
+869	"Activated B cells (ABCs)"	0.14
+869	"Activated granulocytes"	0.00466
+869	"ASCs (Plasmablasts)"	0.029
+869	"Basophils"	0.83
+869	"Bcells"	3.34
+869	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.28
+869	"B cells (CD19+CD3-CD14-CD56-)"	3.33
+869	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.016
+869	"CD19-CD3-"	51
+869	"CD19+ CD3-"	3.35
+869	"CD3CD19"	0.018
+869	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.22
+869	"CD3-CD19-CD56- cells"	19.9
+869	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.77
+869	"CD3CD19neg"	45.6
+869	"CD3 Tcells"	44.6
+869	"CD4+CD8+ T cells"	0.39
+869	"CD4-CD8- T cells"	1.6
+869	"CD4Tcells"	27.6
+869	"CD56+ CD3high T cells"	0.17
+869	"CD56+CD3+T cells"	0.77
+869	"CD56high NK cells"	1.12
+869	"CD8Tcells"	14.3
+869	"cDC1"	0.00259
+869	"cDC2"	1.03
+869	"Classical_Monocytes"	12
+869	"Conventional dendritic cells (cDCs)"	1.04
+869	"Intermediate_Monocytes"	1.26
+869	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.21
+869	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.38
+869	"MB doublets (CD19+CD14+)"	0.00726
+869	"Memory B cells"	0.51
+869	"Monocytes"	16.3
+869	"Naive B cells"	2.65
+869	"NaiveCD4"	16.6
+869	"NaiveCD8"	6.4
+869	"NK"	29.3
+869	"NK cells (CD3-CD19-CD56+)"	30.4
+869	"Non-Classical_Monocytes"	1.09
+869	"non-pDCs"	1.25
+869	"pDC"	0.22
+869	"Proliferating B cells"	0.17
+869	"T cells (CD19-CD3+CD14-)"	45.6
+869	"TcmCD4"	7.34
+869	"TcmCD8"	1.04
+869	"TemCD4"	3.38
+869	"TemCD8"	3.58
+869	"TemraCD4"	0.26
+869	"TemraCD8"	3.3
+869	"T:M doublets (CD19-CD3+CD14+)"	0.054
+730	"Activated B cells (ABCs)"	0.16
+730	"Activated granulocytes"	0.02
+730	"ASCs (Plasmablasts)"	0.048
+730	"Basophils"	1.28
+730	"Bcells"	7.26
+730	"B cells (CD19+CD20+CD3-CD14-CD56-)"	7.17
+730	"B cells (CD19+CD3-CD14-CD56-)"	7.25
+730	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.01
+730	"CD19-CD3-"	39.7
+730	"CD19+ CD3-"	7.27
+730	"CD3CD19"	0.054
+730	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.13
+730	"CD3-CD19-CD56- cells"	28.9
+730	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.06
+730	"CD3CD19neg"	53
+730	"CD3 Tcells"	50.9
+730	"CD4+CD8+ T cells"	0.14
+730	"CD4-CD8- T cells"	5.27
+730	"CD4Tcells"	28.3
+730	"CD56+ CD3high T cells"	0.56
+730	"CD56+CD3+T cells"	1.14
+730	"CD56high NK cells"	0.63
+730	"CD8Tcells"	16.5
+730	"cDC1"	0.011
+730	"cDC2"	0.76
+730	"Classical_Monocytes"	14.9
+730	"Conventional dendritic cells (cDCs)"	0.87
+730	"Intermediate_Monocytes"	0.37
+730	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	7.85
+730	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	6.55
+730	"MB doublets (CD19+CD14+)"	0.013
+730	"Memory B cells"	1.5
+730	"Monocytes"	18.9
+730	"Naive B cells"	5.44
+730	"NaiveCD4"	17.5
+730	"NaiveCD8"	12.2
+730	"NK"	9.31
+730	"NK cells (CD3-CD19-CD56+)"	9.95
+730	"Non-Classical_Monocytes"	1.51
+730	"non-pDCs"	1.02
+730	"pDC"	0.79
+730	"Proliferating B cells"	0.22
+730	"T cells (CD19-CD3+CD14-)"	52.8
+730	"TcmCD4"	8.16
+730	"TcmCD8"	1.1
+730	"TemCD4"	2.46
+730	"TemCD8"	1.46
+730	"TemraCD4"	0.18
+730	"TemraCD8"	1.75
+730	"T:M doublets (CD19-CD3+CD14+)"	0.15
+922	"Activated B cells (ABCs)"	0.16
+922	"Activated granulocytes"	0.00233
+922	"ASCs (Plasmablasts)"	0.079
+922	"Basophils"	0.5
+922	"Bcells"	2.86
+922	"B cells (CD19+CD20+CD3-CD14-CD56-)"	2.75
+922	"B cells (CD19+CD3-CD14-CD56-)"	2.86
+922	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00378
+922	"CD19-CD3-"	34.5
+922	"CD19+ CD3-"	2.86
+922	"CD3CD19"	0.013
+922	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.3
+922	"CD3-CD19-CD56- cells"	15
+922	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.69
+922	"CD3CD19neg"	62.6
+922	"CD3 Tcells"	60.4
+922	"CD4+CD8+ T cells"	0.15
+922	"CD4-CD8- T cells"	4.07
+922	"CD4Tcells"	34.9
+922	"CD56+ CD3high T cells"	0.45
+922	"CD56+CD3+T cells"	1.61
+922	"CD56high NK cells"	0.61
+922	"CD8Tcells"	19.9
+922	"cDC1"	0.00407
+922	"cDC2"	0.41
+922	"Classical_Monocytes"	7.65
+922	"Conventional dendritic cells (cDCs)"	0.45
+922	"Intermediate_Monocytes"	0.53
+922	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.87
+922	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.37
+922	"MB doublets (CD19+CD14+)"	0.00349
+922	"Memory B cells"	0.81
+922	"Monocytes"	11.9
+922	"Naive B cells"	1.79
+922	"NaiveCD4"	22
+922	"NaiveCD8"	14.1
+922	"NK"	18.5
+922	"NK cells (CD3-CD19-CD56+)"	19.1
+922	"Non-Classical_Monocytes"	1.94
+922	"non-pDCs"	0.75
+922	"pDC"	0.73
+922	"Proliferating B cells"	0.25
+922	"T cells (CD19-CD3+CD14-)"	62.6
+922	"TcmCD4"	9.4
+922	"TcmCD8"	0.51
+922	"TemCD4"	3.22
+922	"TemCD8"	2.26
+922	"TemraCD4"	0.23
+922	"TemraCD8"	3.06
+922	"T:M doublets (CD19-CD3+CD14+)"	0.041
+760	"Activated B cells (ABCs)"	0.5
+760	"Activated granulocytes"	0.031
+760	"ASCs (Plasmablasts)"	0.024
+760	"Basophils"	1.15
+760	"Bcells"	3.08
+760	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.02
+760	"B cells (CD19+CD3-CD14-CD56-)"	3.07
+760	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.011
+760	"CD19-CD3-"	36.9
+760	"CD19+ CD3-"	3.09
+760	"CD3CD19"	0.017
+760	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.038
+760	"CD3-CD19-CD56- cells"	25.4
+760	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.73
+760	"CD3CD19neg"	60
+760	"CD3 Tcells"	59
+760	"CD4+CD8+ T cells"	0.13
+760	"CD4-CD8- T cells"	2.65
+760	"CD4Tcells"	35.7
+760	"CD56+ CD3high T cells"	0.36
+760	"CD56+CD3+T cells"	0.57
+760	"CD56high NK cells"	0.57
+760	"CD8Tcells"	20
+760	"cDC1"	0.015
+760	"cDC2"	1
+760	"Classical_Monocytes"	14.8
+760	"Conventional dendritic cells (cDCs)"	1.06
+760	"Intermediate_Monocytes"	1.18
+760	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.19
+760	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.01
+760	"MB doublets (CD19+CD14+)"	0.00918
+760	"Memory B cells"	0.74
+760	"Monocytes"	22.1
+760	"Naive B cells"	1.76
+760	"NaiveCD4"	23.5
+760	"NaiveCD8"	10.6
+760	"NK"	10.2
+760	"NK cells (CD3-CD19-CD56+)"	11.1
+760	"Non-Classical_Monocytes"	3.37
+760	"non-pDCs"	1.1
+760	"pDC"	1.36
+760	"Proliferating B cells"	0.52
+760	"T cells (CD19-CD3+CD14-)"	60
+760	"TcmCD4"	10
+760	"TcmCD8"	1.13
+760	"TemCD4"	2.11
+760	"TemCD8"	1.5
+760	"TemraCD4"	0.038
+760	"TemraCD8"	6.84
+760	"T:M doublets (CD19-CD3+CD14+)"	0.041
+840	"Activated B cells (ABCs)"	0.17
+840	"Activated granulocytes"	0.029
+840	"ASCs (Plasmablasts)"	0.026
+840	"Basophils"	0.87
+840	"Bcells"	4.62
+840	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.57
+840	"B cells (CD19+CD3-CD14-CD56-)"	4.61
+840	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00475
+840	"CD19-CD3-"	36.9
+840	"CD19+ CD3-"	4.63
+840	"CD3CD19"	0.026
+840	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.16
+840	"CD3-CD19-CD56- cells"	24.9
+840	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.7
+840	"CD3CD19neg"	58.4
+840	"CD3 Tcells"	57.2
+840	"CD4+CD8+ T cells"	0.11
+840	"CD4-CD8- T cells"	4.3
+840	"CD4Tcells"	39.8
+840	"CD56+ CD3high T cells"	0.63
+840	"CD56+CD3+T cells"	0.45
+840	"CD56high NK cells"	1.03
+840	"CD8Tcells"	12.4
+840	"cDC1"	0.011
+840	"cDC2"	1.05
+840	"Classical_Monocytes"	14.8
+840	"Conventional dendritic cells (cDCs)"	1.13
+840	"Intermediate_Monocytes"	1.19
+840	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.97
+840	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	3.07
+840	"MB doublets (CD19+CD14+)"	0.012
+840	"Memory B cells"	0.82
+840	"Monocytes"	20.2
+840	"Naive B cells"	3.57
+840	"NaiveCD4"	25.7
+840	"NaiveCD8"	9.04
+840	"NK"	10.5
+840	"NK cells (CD3-CD19-CD56+)"	11.5
+840	"Non-Classical_Monocytes"	1.49
+840	"non-pDCs"	1.29
+840	"pDC"	0.63
+840	"Proliferating B cells"	0.2
+840	"T cells (CD19-CD3+CD14-)"	58.3
+840	"TcmCD4"	10.7
+840	"TcmCD8"	0.7
+840	"TemCD4"	3.26
+840	"TemCD8"	1.39
+840	"TemraCD4"	0.1
+840	"TemraCD8"	1.29
+840	"T:M doublets (CD19-CD3+CD14+)"	0.1
+890	"Activated B cells (ABCs)"	0.18
+890	"Activated granulocytes"	0.00749
+890	"ASCs (Plasmablasts)"	0.1
+890	"Basophils"	1.01
+890	"Bcells"	3.93
+890	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.79
+890	"B cells (CD19+CD3-CD14-CD56-)"	3.93
+890	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00677
+890	"CD19-CD3-"	44.2
+890	"CD19+ CD3-"	3.94
+890	"CD3CD19"	0.02
+890	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.093
+890	"CD3-CD19-CD56- cells"	20.1
+890	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.3
+890	"CD3CD19neg"	51.8
+890	"CD3 Tcells"	42.6
+890	"CD4+CD8+ T cells"	0.057
+890	"CD4-CD8- T cells"	4.06
+890	"CD4Tcells"	23.2
+890	"CD56+ CD3high T cells"	1.9
+890	"CD56+CD3+T cells"	6.75
+890	"CD56high NK cells"	0.52
+890	"CD8Tcells"	14.4
+890	"cDC1"	0
+890	"cDC2"	0.55
+890	"Classical_Monocytes"	11.8
+890	"Conventional dendritic cells (cDCs)"	0.56
+890	"Intermediate_Monocytes"	0.64
+890	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.95
+890	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.93
+890	"MB doublets (CD19+CD14+)"	0.00392
+890	"Memory B cells"	0.95
+890	"Monocytes"	15.8
+890	"Naive B cells"	2.69
+890	"NaiveCD4"	14
+890	"NaiveCD8"	8.14
+890	"NK"	23
+890	"NK cells (CD3-CD19-CD56+)"	23.5
+890	"Non-Classical_Monocytes"	1.91
+890	"non-pDCs"	0.65
+890	"pDC"	0.27
+890	"Proliferating B cells"	0.28
+890	"T cells (CD19-CD3+CD14-)"	51.7
+890	"TcmCD4"	6.23
+890	"TcmCD8"	0.2
+890	"TemCD4"	2.62
+890	"TemCD8"	0.59
+890	"TemraCD4"	0.28
+890	"TemraCD8"	5.48
+890	"T:M doublets (CD19-CD3+CD14+)"	0.12
+731	"Activated B cells (ABCs)"	0.14
+731	"Activated granulocytes"	0.011
+731	"ASCs (Plasmablasts)"	0.046
+731	"Basophils"	1.16
+731	"Bcells"	4.94
+731	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.85
+731	"B cells (CD19+CD3-CD14-CD56-)"	4.93
+731	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00582
+731	"CD19-CD3-"	46.7
+731	"CD19+ CD3-"	4.95
+731	"CD3CD19"	0.028
+731	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.15
+731	"CD3-CD19-CD56- cells"	32.3
+731	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.34
+731	"CD3CD19neg"	48.3
+731	"CD3 Tcells"	45.1
+731	"CD4+CD8+ T cells"	0.15
+731	"CD4-CD8- T cells"	7.48
+731	"CD4Tcells"	21.6
+731	"CD56+ CD3high T cells"	0.92
+731	"CD56+CD3+T cells"	1.81
+731	"CD56high NK cells"	0.67
+731	"CD8Tcells"	15.2
+731	"cDC1"	0.013
+731	"cDC2"	0.86
+731	"Classical_Monocytes"	15.4
+731	"Conventional dendritic cells (cDCs)"	0.96
+731	"Intermediate_Monocytes"	0.98
+731	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	7.94
+731	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	6.77
+731	"MB doublets (CD19+CD14+)"	0.011
+731	"Memory B cells"	1.14
+731	"Monocytes"	22
+731	"Naive B cells"	3.53
+731	"NaiveCD4"	12.1
+731	"NaiveCD8"	9.73
+731	"NK"	12.9
+731	"NK cells (CD3-CD19-CD56+)"	13.6
+731	"Non-Classical_Monocytes"	3.22
+731	"non-pDCs"	1.13
+731	"pDC"	0.98
+731	"Proliferating B cells"	0.19
+731	"T cells (CD19-CD3+CD14-)"	48.2
+731	"TcmCD4"	6.75
+731	"TcmCD8"	1.06
+731	"TemCD4"	2.55
+731	"TemCD8"	2.06
+731	"TemraCD4"	0.18
+731	"TemraCD8"	2.34
+731	"T:M doublets (CD19-CD3+CD14+)"	0.082
+901	"Activated B cells (ABCs)"	0.21
+901	"Activated granulocytes"	0.01
+901	"ASCs (Plasmablasts)"	0.042
+901	"Basophils"	1.6
+901	"Bcells"	5.84
+901	"B cells (CD19+CD20+CD3-CD14-CD56-)"	5.72
+901	"B cells (CD19+CD3-CD14-CD56-)"	5.79
+901	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.052
+901	"CD19-CD3-"	21.8
+901	"CD19+ CD3-"	5.85
+901	"CD3CD19"	0.058
+901	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.094
+901	"CD3-CD19-CD56- cells"	15.9
+901	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.14
+901	"CD3CD19neg"	72.3
+901	"CD3 Tcells"	69.2
+901	"CD4+CD8+ T cells"	0.25
+901	"CD4-CD8- T cells"	3.57
+901	"CD4Tcells"	31.8
+901	"CD56+ CD3high T cells"	0.5
+901	"CD56+CD3+T cells"	2.2
+901	"CD56high NK cells"	0.54
+901	"CD8Tcells"	32.6
+901	"cDC1"	0.00195
+901	"cDC2"	0.43
+901	"Classical_Monocytes"	6.42
+901	"Conventional dendritic cells (cDCs)"	0.46
+901	"Intermediate_Monocytes"	0.79
+901	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	5.72
+901	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	4.1
+901	"MB doublets (CD19+CD14+)"	0.012
+901	"Memory B cells"	0.78
+901	"Monocytes"	9.3
+901	"Naive B cells"	4.71
+901	"NaiveCD4"	22.1
+901	"NaiveCD8"	26.2
+901	"NK"	5.01
+901	"NK cells (CD3-CD19-CD56+)"	5.55
+901	"Non-Classical_Monocytes"	0.91
+901	"non-pDCs"	0.57
+901	"pDC"	0.44
+901	"Proliferating B cells"	0.25
+901	"T cells (CD19-CD3+CD14-)"	72.2
+901	"TcmCD4"	4.6
+901	"TcmCD8"	0.56
+901	"TemCD4"	4.7
+901	"TemCD8"	1.48
+901	"TemraCD4"	0.38
+901	"TemraCD8"	4.44
+901	"T:M doublets (CD19-CD3+CD14+)"	0.11
+750	"Activated B cells (ABCs)"	0.24
+750	"Activated granulocytes"	0.074
+750	"ASCs (Plasmablasts)"	0.023
+750	"Basophils"	0.38
+750	"Bcells"	7.35
+750	"B cells (CD19+CD20+CD3-CD14-CD56-)"	7.29
+750	"B cells (CD19+CD3-CD14-CD56-)"	7.34
+750	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00847
+750	"CD19-CD3-"	38.8
+750	"CD19+ CD3-"	7.36
+750	"CD3CD19"	0.076
+750	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.07
+750	"CD3-CD19-CD56- cells"	31.3
+750	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.39
+750	"CD3CD19neg"	53.8
+750	"CD3 Tcells"	52.7
+750	"CD4+CD8+ T cells"	0.19
+750	"CD4-CD8- T cells"	1.76
+750	"CD4Tcells"	36.1
+750	"CD56+ CD3high T cells"	0.29
+750	"CD56+CD3+T cells"	0.64
+750	"CD56high NK cells"	0.67
+750	"CD8Tcells"	14.4
+750	"cDC1"	0.00147
+750	"cDC2"	1.07
+750	"Classical_Monocytes"	23.1
+750	"Conventional dendritic cells (cDCs)"	1.1
+750	"Intermediate_Monocytes"	0.96
+750	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	4.81
+750	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	4.36
+750	"MB doublets (CD19+CD14+)"	0.015
+750	"Memory B cells"	2.34
+750	"Monocytes"	26.6
+750	"Naive B cells"	4.72
+750	"NaiveCD4"	10.3
+750	"NaiveCD8"	8.36
+750	"NK"	6.45
+750	"NK cells (CD3-CD19-CD56+)"	7.12
+750	"Non-Classical_Monocytes"	1.13
+750	"non-pDCs"	1.18
+750	"pDC"	0.1
+750	"Proliferating B cells"	0.26
+750	"T cells (CD19-CD3+CD14-)"	53.7
+750	"TcmCD4"	8.95
+750	"TcmCD8"	0.3
+750	"TemCD4"	15.8
+750	"TemCD8"	2.66
+750	"TemraCD4"	1
+750	"TemraCD8"	3.06
+750	"T:M doublets (CD19-CD3+CD14+)"	0.062
+800	"Activated B cells (ABCs)"	0.4
+800	"Activated granulocytes"	0.025
+800	"ASCs (Plasmablasts)"	0.079
+800	"Basophils"	0.62
+800	"Bcells"	11.9
+800	"B cells (CD19+CD20+CD3-CD14-CD56-)"	11.7
+800	"B cells (CD19+CD3-CD14-CD56-)"	11.8
+800	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.049
+800	"CD19-CD3-"	35
+800	"CD19+ CD3-"	11.9
+800	"CD3CD19"	0.063
+800	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.078
+800	"CD3-CD19-CD56- cells"	19.8
+800	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	0.92
+800	"CD3CD19neg"	53
+800	"CD3 Tcells"	48.6
+800	"CD4+CD8+ T cells"	0.16
+800	"CD4-CD8- T cells"	3.14
+800	"CD4Tcells"	27.1
+800	"CD56+ CD3high T cells"	1.78
+800	"CD56+CD3+T cells"	2.27
+800	"CD56high NK cells"	0.57
+800	"CD8Tcells"	17.4
+800	"cDC1"	0.00608
+800	"cDC2"	0.3
+800	"Classical_Monocytes"	10.8
+800	"Conventional dendritic cells (cDCs)"	0.32
+800	"Intermediate_Monocytes"	0.63
+800	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	4.8
+800	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	4.14
+800	"MB doublets (CD19+CD14+)"	0.00982
+800	"Memory B cells"	0.97
+800	"Monocytes"	14
+800	"Naive B cells"	10.3
+800	"NaiveCD4"	15.5
+800	"NaiveCD8"	11.7
+800	"NK"	14.2
+800	"NK cells (CD3-CD19-CD56+)"	14.8
+800	"Non-Classical_Monocytes"	1.65
+800	"non-pDCs"	0.4
+800	"pDC"	0.36
+800	"Proliferating B cells"	0.48
+800	"T cells (CD19-CD3+CD14-)"	53
+800	"TcmCD4"	8.69
+800	"TcmCD8"	0.96
+800	"TemCD4"	2.77
+800	"TemCD8"	2.18
+800	"TemraCD4"	0.14
+800	"TemraCD8"	2.5
+800	"T:M doublets (CD19-CD3+CD14+)"	0.042
+810	"Activated B cells (ABCs)"	0.31
+810	"Activated granulocytes"	0.00782
+810	"ASCs (Plasmablasts)"	0.016
+810	"Basophils"	0.37
+810	"Bcells"	3.58
+810	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.55
+810	"B cells (CD19+CD3-CD14-CD56-)"	3.58
+810	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00604
+810	"CD19-CD3-"	31.3
+810	"CD19+ CD3-"	3.59
+810	"CD3CD19"	0.021
+810	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.078
+810	"CD3-CD19-CD56- cells"	23.4
+810	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.71
+810	"CD3CD19neg"	65.1
+810	"CD3 Tcells"	62.8
+810	"CD4+CD8+ T cells"	0.29
+810	"CD4-CD8- T cells"	4.09
+810	"CD4Tcells"	37.9
+810	"CD56+ CD3high T cells"	1.48
+810	"CD56+CD3+T cells"	0.48
+810	"CD56high NK cells"	0.51
+810	"CD8Tcells"	20.1
+810	"cDC1"	0.00604
+810	"cDC2"	0.69
+810	"Classical_Monocytes"	18.8
+810	"Conventional dendritic cells (cDCs)"	0.72
+810	"Intermediate_Monocytes"	0.86
+810	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	1.08
+810	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	0.7
+810	"MB doublets (CD19+CD14+)"	0.0064
+810	"Memory B cells"	0.73
+810	"Monocytes"	22.3
+810	"Naive B cells"	2.5
+810	"NaiveCD4"	29.3
+810	"NaiveCD8"	14.8
+810	"NK"	6.99
+810	"NK cells (CD3-CD19-CD56+)"	7.63
+810	"Non-Classical_Monocytes"	0.79
+810	"non-pDCs"	0.8
+810	"pDC"	0.64
+810	"Proliferating B cells"	0.33
+810	"T cells (CD19-CD3+CD14-)"	64.9
+810	"TcmCD4"	6.66
+810	"TcmCD8"	0.94
+810	"TemCD4"	1.75
+810	"TemCD8"	1.66
+810	"TemraCD4"	0.14
+810	"TemraCD8"	2.64
+810	"T:M doublets (CD19-CD3+CD14+)"	0.2
+921	"Activated B cells (ABCs)"	0.18
+921	"Activated granulocytes"	0.012
+921	"ASCs (Plasmablasts)"	0.048
+921	"Basophils"	0.62
+921	"Bcells"	3.83
+921	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.76
+921	"B cells (CD19+CD3-CD14-CD56-)"	3.83
+921	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00484
+921	"CD19-CD3-"	30.3
+921	"CD19+ CD3-"	3.84
+921	"CD3CD19"	0.037
+921	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.22
+921	"CD3-CD19-CD56- cells"	15.1
+921	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.67
+921	"CD3CD19neg"	65.8
+921	"CD3 Tcells"	63.1
+921	"CD4+CD8+ T cells"	0.26
+921	"CD4-CD8- T cells"	3.8
+921	"CD4Tcells"	35
+921	"CD56+ CD3high T cells"	0.47
+921	"CD56+CD3+T cells"	2
+921	"CD56high NK cells"	0.58
+921	"CD8Tcells"	22.7
+921	"cDC1"	0.00922
+921	"cDC2"	0.46
+921	"Classical_Monocytes"	7.51
+921	"Conventional dendritic cells (cDCs)"	0.49
+921	"Intermediate_Monocytes"	0.71
+921	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.92
+921	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.29
+921	"MB doublets (CD19+CD14+)"	0.00484
+921	"Memory B cells"	0.91
+921	"Monocytes"	11.9
+921	"Naive B cells"	2.68
+921	"NaiveCD4"	22
+921	"NaiveCD8"	16.5
+921	"NK"	14.4
+921	"NK cells (CD3-CD19-CD56+)"	15
+921	"Non-Classical_Monocytes"	1.93
+921	"non-pDCs"	0.71
+921	"pDC"	0.71
+921	"Proliferating B cells"	0.23
+921	"T cells (CD19-CD3+CD14-)"	65.7
+921	"TcmCD4"	9.26
+921	"TcmCD8"	0.78
+921	"TemCD4"	3.48
+921	"TemCD8"	2.43
+921	"TemraCD4"	0.24
+921	"TemraCD8"	2.98
+921	"T:M doublets (CD19-CD3+CD14+)"	0.089
+742	"Activated B cells (ABCs)"	0.029
+742	"Activated granulocytes"	0.037
+742	"ASCs (Plasmablasts)"	0.014
+742	"Basophils"	1.08
+742	"Bcells"	4.62
+742	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.59
+742	"B cells (CD19+CD3-CD14-CD56-)"	4.62
+742	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00489
+742	"CD19-CD3-"	31.3
+742	"CD19+ CD3-"	4.63
+742	"CD3CD19"	0.033
+742	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.11
+742	"CD3-CD19-CD56- cells"	16.8
+742	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.82
+742	"CD3CD19neg"	64
+742	"CD3 Tcells"	62.1
+742	"CD4+CD8+ T cells"	0.18
+742	"CD4-CD8- T cells"	1.74
+742	"CD4Tcells"	38.9
+742	"CD56+ CD3high T cells"	0.97
+742	"CD56+CD3+T cells"	0.88
+742	"CD56high NK cells"	1.01
+742	"CD8Tcells"	20.9
+742	"cDC1"	0.012
+742	"cDC2"	0.65
+742	"Classical_Monocytes"	10.2
+742	"Conventional dendritic cells (cDCs)"	0.72
+742	"Intermediate_Monocytes"	0.46
+742	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.56
+742	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.44
+742	"MB doublets (CD19+CD14+)"	0.00733
+742	"Memory B cells"	0.51
+742	"Monocytes"	14.3
+742	"Naive B cells"	4.06
+742	"NaiveCD4"	23.7
+742	"NaiveCD8"	14
+742	"NK"	13.4
+742	"NK cells (CD3-CD19-CD56+)"	14.4
+742	"Non-Classical_Monocytes"	1.78
+742	"non-pDCs"	0.84
+742	"pDC"	0.72
+742	"Proliferating B cells"	0.042
+742	"T cells (CD19-CD3+CD14-)"	64
+742	"TcmCD4"	9.93
+742	"TcmCD8"	0.46
+742	"TemCD4"	4.89
+742	"TemCD8"	2.34
+742	"TemraCD4"	0.41
+742	"TemraCD8"	4.1
+742	"T:M doublets (CD19-CD3+CD14+)"	0.032
+912	"Activated B cells (ABCs)"	0.13
+912	"Activated granulocytes"	0.017
+912	"ASCs (Plasmablasts)"	0.021
+912	"Basophils"	0.6
+912	"Bcells"	2.9
+912	"B cells (CD19+CD20+CD3-CD14-CD56-)"	2.87
+912	"B cells (CD19+CD3-CD14-CD56-)"	2.9
+912	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.0039
+912	"CD19-CD3-"	44.5
+912	"CD19+ CD3-"	2.93
+912	"CD3CD19"	0.022
+912	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.73
+912	"CD3-CD19-CD56- cells"	30.2
+912	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	3.56
+912	"CD3CD19neg"	52.6
+912	"CD3 Tcells"	51.7
+912	"CD4+CD8+ T cells"	0.038
+912	"CD4-CD8- T cells"	2.37
+912	"CD4Tcells"	34.8
+912	"CD56+ CD3high T cells"	0.17
+912	"CD56+CD3+T cells"	0.33
+912	"CD56high NK cells"	0.69
+912	"CD8Tcells"	14.1
+912	"cDC1"	0
+912	"cDC2"	0.79
+912	"Classical_Monocytes"	16.6
+912	"Conventional dendritic cells (cDCs)"	0.94
+912	"Intermediate_Monocytes"	0.33
+912	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	5.98
+912	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	5.36
+912	"MB doublets (CD19+CD14+)"	0.031
+912	"Memory B cells"	0.55
+912	"Monocytes"	22.2
+912	"Naive B cells"	2.17
+912	"NaiveCD4"	28.6
+912	"NaiveCD8"	11.6
+912	"NK"	12.8
+912	"NK cells (CD3-CD19-CD56+)"	13.5
+912	"Non-Classical_Monocytes"	1.7
+912	"non-pDCs"	1.7
+912	"pDC"	1.28
+912	"Proliferating B cells"	0.16
+912	"T cells (CD19-CD3+CD14-)"	52.4
+912	"TcmCD4"	5.05
+912	"TcmCD8"	0.8
+912	"TemCD4"	1.08
+912	"TemCD8"	0.79
+912	"TemraCD4"	0.044
+912	"TemraCD8"	0.93
+912	"T:M doublets (CD19-CD3+CD14+)"	0.2
+931	"Activated B cells (ABCs)"	0.22
+931	"Activated granulocytes"	0.011
+931	"ASCs (Plasmablasts)"	0.027
+931	"Basophils"	0.55
+931	"Bcells"	4.5
+931	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.44
+931	"B cells (CD19+CD3-CD14-CD56-)"	4.48
+931	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.016
+931	"CD19-CD3-"	28.9
+931	"CD19+ CD3-"	4.5
+931	"CD3CD19"	0.062
+931	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.12
+931	"CD3-CD19-CD56- cells"	16.3
+931	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.36
+931	"CD3CD19neg"	66.5
+931	"CD3 Tcells"	64.3
+931	"CD4+CD8+ T cells"	0.13
+931	"CD4-CD8- T cells"	4.97
+931	"CD4Tcells"	32.2
+931	"CD56+ CD3high T cells"	1.14
+931	"CD56+CD3+T cells"	0.64
+931	"CD56high NK cells"	0.22
+931	"CD8Tcells"	26.3
+931	"cDC1"	0.015
+931	"cDC2"	0.54
+931	"Classical_Monocytes"	10.7
+931	"Conventional dendritic cells (cDCs)"	0.59
+931	"Intermediate_Monocytes"	0.76
+931	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	1.9
+931	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.34
+931	"MB doublets (CD19+CD14+)"	0.00595
+931	"Memory B cells"	0.52
+931	"Monocytes"	13.8
+931	"Naive B cells"	3.69
+931	"NaiveCD4"	22.1
+931	"NaiveCD8"	21.5
+931	"NK"	12
+931	"NK cells (CD3-CD19-CD56+)"	12.3
+931	"Non-Classical_Monocytes"	0.84
+931	"non-pDCs"	0.7
+931	"pDC"	0.46
+931	"Proliferating B cells"	0.25
+931	"T cells (CD19-CD3+CD14-)"	66.4
+931	"TcmCD4"	7.87
+931	"TcmCD8"	0.63
+931	"TemCD4"	2.14
+931	"TemCD8"	2.27
+931	"TemraCD4"	0.062
+931	"TemraCD8"	1.86
+931	"T:M doublets (CD19-CD3+CD14+)"	0.14
+831	"Activated B cells (ABCs)"	0.15
+831	"Activated granulocytes"	0.031
+831	"ASCs (Plasmablasts)"	0.017
+831	"Basophils"	1.18
+831	"Bcells"	6.06
+831	"B cells (CD19+CD20+CD3-CD14-CD56-)"	6.03
+831	"B cells (CD19+CD3-CD14-CD56-)"	6.06
+831	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00519
+831	"CD19-CD3-"	29.7
+831	"CD19+ CD3-"	6.07
+831	"CD3CD19"	0.056
+831	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.12
+831	"CD3-CD19-CD56- cells"	23
+831	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.06
+831	"CD3CD19neg"	64.2
+831	"CD3 Tcells"	62.9
+831	"CD4+CD8+ T cells"	0.14
+831	"CD4-CD8- T cells"	3.58
+831	"CD4Tcells"	46.7
+831	"CD56+ CD3high T cells"	0.73
+831	"CD56+CD3+T cells"	0.27
+831	"CD56high NK cells"	0.62
+831	"CD8Tcells"	12.1
+831	"cDC1"	0.00675
+831	"cDC2"	0.78
+831	"Classical_Monocytes"	15.1
+831	"Conventional dendritic cells (cDCs)"	0.84
+831	"Intermediate_Monocytes"	1.19
+831	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.12
+831	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.91
+831	"MB doublets (CD19+CD14+)"	0.011
+831	"Memory B cells"	0.76
+831	"Monocytes"	19.6
+831	"Naive B cells"	5.1
+831	"NaiveCD4"	33.2
+831	"NaiveCD8"	9.2
+831	"NK"	5.84
+831	"NK cells (CD3-CD19-CD56+)"	6.45
+831	"Non-Classical_Monocytes"	1.15
+831	"non-pDCs"	0.97
+831	"pDC"	0.49
+831	"Proliferating B cells"	0.17
+831	"T cells (CD19-CD3+CD14-)"	64
+831	"TcmCD4"	9.86
+831	"TcmCD8"	0.73
+831	"TemCD4"	3.45
+831	"TemCD8"	1.05
+831	"TemraCD4"	0.2
+831	"TemraCD8"	1.16
+831	"T:M doublets (CD19-CD3+CD14+)"	0.21
+811	"Activated B cells (ABCs)"	0.33
+811	"Activated granulocytes"	0.00984
+811	"ASCs (Plasmablasts)"	0.034
+811	"Basophils"	0.37
+811	"Bcells"	4.74
+811	"B cells (CD19+CD20+CD3-CD14-CD56-)"	4.68
+811	"B cells (CD19+CD3-CD14-CD56-)"	4.73
+811	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00889
+811	"CD19-CD3-"	40.5
+811	"CD19+ CD3-"	4.75
+811	"CD3CD19"	0.04
+811	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.11
+811	"CD3-CD19-CD56- cells"	29
+811	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	2.1
+811	"CD3CD19neg"	54.8
+811	"CD3 Tcells"	52.2
+811	"CD4+CD8+ T cells"	0.26
+811	"CD4-CD8- T cells"	4.19
+811	"CD4Tcells"	31.1
+811	"CD56+ CD3high T cells"	1.7
+811	"CD56+CD3+T cells"	0.49
+811	"CD56high NK cells"	0.64
+811	"CD8Tcells"	16.2
+811	"cDC1"	0.00826
+811	"cDC2"	0.81
+811	"Classical_Monocytes"	22.9
+811	"Conventional dendritic cells (cDCs)"	0.84
+811	"Intermediate_Monocytes"	1.25
+811	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	1.41
+811	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.03
+811	"MB doublets (CD19+CD14+)"	0.00984
+811	"Memory B cells"	0.99
+811	"Monocytes"	27.5
+811	"Naive B cells"	3.35
+811	"NaiveCD4"	24.1
+811	"NaiveCD8"	10.7
+811	"NK"	10.4
+811	"NK cells (CD3-CD19-CD56+)"	11.2
+811	"Non-Classical_Monocytes"	1.15
+811	"non-pDCs"	0.95
+811	"pDC"	0.76
+811	"Proliferating B cells"	0.36
+811	"T cells (CD19-CD3+CD14-)"	54.5
+811	"TcmCD4"	5.68
+811	"TcmCD8"	0.74
+811	"TemCD4"	1.2
+811	"TemCD8"	1.79
+811	"TemraCD4"	0.097
+811	"TemraCD8"	2.94
+811	"T:M doublets (CD19-CD3+CD14+)"	0.26
+841	"Activated B cells (ABCs)"	0.16
+841	"Activated granulocytes"	0.17
+841	"ASCs (Plasmablasts)"	0.043
+841	"Basophils"	0.85
+841	"Bcells"	3.96
+841	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.9
+841	"B cells (CD19+CD3-CD14-CD56-)"	3.96
+841	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00611
+841	"CD19-CD3-"	33.2
+841	"CD19+ CD3-"	3.99
+841	"CD3CD19"	0.04
+841	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.13
+841	"CD3-CD19-CD56- cells"	26.8
+841	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.66
+841	"CD3CD19neg"	62.7
+841	"CD3 Tcells"	61.3
+841	"CD4+CD8+ T cells"	0.15
+841	"CD4-CD8- T cells"	1.57
+841	"CD4Tcells"	41.6
+841	"CD56+ CD3high T cells"	0.58
+841	"CD56+CD3+T cells"	0.67
+841	"CD56high NK cells"	0.59
+841	"CD8Tcells"	17.7
+841	"cDC1"	0.00122
+841	"cDC2"	0.66
+841	"Classical_Monocytes"	18.2
+841	"Conventional dendritic cells (cDCs)"	0.73
+841	"Intermediate_Monocytes"	0.7
+841	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	3.59
+841	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	2.56
+841	"MB doublets (CD19+CD14+)"	0.024
+841	"Memory B cells"	0.44
+841	"Monocytes"	22
+841	"Naive B cells"	3.27
+841	"NaiveCD4"	30.6
+841	"NaiveCD8"	13.3
+841	"NK"	5.68
+841	"NK cells (CD3-CD19-CD56+)"	6.27
+841	"Non-Classical_Monocytes"	1.44
+841	"non-pDCs"	0.86
+841	"pDC"	0.39
+841	"Proliferating B cells"	0.21
+841	"T cells (CD19-CD3+CD14-)"	62.6
+841	"TcmCD4"	8.06
+841	"TcmCD8"	0.44
+841	"TemCD4"	2.63
+841	"TemCD8"	2.5
+841	"TemraCD4"	0.26
+841	"TemraCD8"	1.56
+841	"T:M doublets (CD19-CD3+CD14+)"	0.16
+809	"Activated B cells (ABCs)"	0.28
+809	"Activated granulocytes"	0.027
+809	"ASCs (Plasmablasts)"	0.029
+809	"Basophils"	0.22
+809	"Bcells"	3
+809	"B cells (CD19+CD20+CD3-CD14-CD56-)"	2.96
+809	"B cells (CD19+CD3-CD14-CD56-)"	3
+809	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00495
+809	"CD19-CD3-"	35.3
+809	"CD19+ CD3-"	3.01
+809	"CD3CD19"	0.018
+809	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.061
+809	"CD3-CD19-CD56- cells"	26.9
+809	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.76
+809	"CD3CD19neg"	61.7
+809	"CD3 Tcells"	59.3
+809	"CD4+CD8+ T cells"	0.26
+809	"CD4-CD8- T cells"	3.22
+809	"CD4Tcells"	36.7
+809	"CD56+ CD3high T cells"	1.46
+809	"CD56+CD3+T cells"	0.55
+809	"CD56high NK cells"	0.66
+809	"CD8Tcells"	18.8
+809	"cDC1"	0.00495
+809	"cDC2"	0.69
+809	"Classical_Monocytes"	18.8
+809	"Conventional dendritic cells (cDCs)"	0.71
+809	"Intermediate_Monocytes"	4.14
+809	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	0.85
+809	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	0.6
+809	"MB doublets (CD19+CD14+)"	0.00797
+809	"Memory B cells"	0.67
+809	"Monocytes"	26
+809	"Naive B cells"	2
+809	"NaiveCD4"	27.1
+809	"NaiveCD8"	13.4
+809	"NK"	7.34
+809	"NK cells (CD3-CD19-CD56+)"	8.15
+809	"Non-Classical_Monocytes"	1.17
+809	"non-pDCs"	0.77
+809	"pDC"	0.76
+809	"Proliferating B cells"	0.31
+809	"T cells (CD19-CD3+CD14-)"	61.4
+809	"TcmCD4"	7.51
+809	"TcmCD8"	0.73
+809	"TemCD4"	1.93
+809	"TemCD8"	1.79
+809	"TemraCD4"	0.14
+809	"TemraCD8"	2.82
+809	"T:M doublets (CD19-CD3+CD14+)"	0.23
+790	"Activated B cells (ABCs)"	0.042
+790	"Activated granulocytes"	0.042
+790	"ASCs (Plasmablasts)"	0.013
+790	"Basophils"	0.42
+790	"Bcells"	3.5
+790	"B cells (CD19+CD20+CD3-CD14-CD56-)"	3.49
+790	"B cells (CD19+CD3-CD14-CD56-)"	3.5
+790	"B:NK doublets (CD19+CD3-CD14-CD56+)"	0.00535
+790	"CD19-CD3-"	39.5
+790	"CD19+ CD3-"	3.53
+790	"CD3CD19"	0.074
+790	"CD3-CD19-CD56-CD14-CD16-CD123-CD11c-HLA-DR+cells"	0.39
+790	"CD3-CD19-CD56- cells"	25.5
+790	"CD3-CD19-CD56-HLA-DR+CD14-CD16- cells"	1.93
+790	"CD3CD19neg"	56.9
+790	"CD3 Tcells"	48.5
+790	"CD4+CD8+ T cells"	0.16
+790	"CD4-CD8- T cells"	1.77
+790	"CD4Tcells"	23.7
+790	"CD56+ CD3high T cells"	1.16
+790	"CD56+CD3+T cells"	7.1
+790	"CD56high NK cells"	0.42
+790	"CD8Tcells"	22.5
+790	"cDC1"	0.000267
+790	"cDC2"	0.77
+790	"Classical_Monocytes"	17.9
+790	"Conventional dendritic cells (cDCs)"	0.83
+790	"Intermediate_Monocytes"	0.63
+790	"Lineage - cells (CD3-CD19-CD56-HLA-DR-)"	2.34
+790	"Lineage negative cells (CD3-CD19-CD56-HLA-DR-CD123-CD66b-)"	1.87
+790	"MB doublets (CD19+CD14+)"	0.025
+790	"Memory B cells"	0.36
+790	"Monocytes"	23.2
+790	"Naive B cells"	3.04
+790	"NaiveCD4"	12.2
+790	"NaiveCD8"	14.1
+790	"NK"	13.2
+790	"NK cells (CD3-CD19-CD56+)"	13.7
+790	"Non-Classical_Monocytes"	2.61
+790	"non-pDCs"	1.23
+790	"pDC"	0.32
+790	"Proliferating B cells"	0.056
+790	"T cells (CD19-CD3+CD14-)"	56.8
+790	"TcmCD4"	6.77
+790	"TcmCD8"	0.32
+790	"TemCD4"	4.52
+790	"TemCD8"	1.37
+790	"TemraCD4"	0.19
+790	"TemraCD8"	6.69
+790	"T:M doublets (CD19-CD3+CD14+)"	0.037

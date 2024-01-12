@@ -1,0 +1,23 @@
+subject_id	infancy_vac	biological_sex	ethnicity	race	year_of_birth	date_of_boost	dataset
+97	wP	Male	Not Hispanic or Latino	White	1986-01-01	2021-11-29	2022_dataset
+98	wP	Female	Not Hispanic or Latino	White	1993-01-01	2021-09-27	2022_dataset
+99	aP	Female	Hispanic or Latino	Unknown or Not Reported	1999-01-01	2021-09-07	2022_dataset
+100	aP	Female	Not Hispanic or Latino	White	2001-01-01	2021-11-01	2022_dataset
+101	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset
+102	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset
+103	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset
+104	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2021-09-07	2022_dataset
+105	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset
+106	aP	Female	Not Hispanic or Latino	White	1996-01-01	2021-09-07	2022_dataset
+107	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2021-09-07	2022_dataset
+108	wP	Female	Not Hispanic or Latino	White	1995-01-01	2021-09-27	2022_dataset
+109	wP	Female	Not Hispanic or Latino	White	1989-01-01	2021-09-27	2022_dataset
+110	aP	Female	Hispanic or Latino	White	1997-01-01	2021-09-27	2022_dataset
+111	wP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset
+112	aP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset
+113	aP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset
+114	wP	Male	Not Hispanic or Latino	Asian	1990-01-01	2021-10-18	2022_dataset
+115	aP	Female	Not Hispanic or Latino	Asian	2002-01-01	2021-11-01	2022_dataset
+116	aP	Male	Not Hispanic or Latino	White	2000-01-01	2021-11-29	2022_dataset
+117	aP	Female	Hispanic or Latino	More Than One Race	1994-01-01	2021-11-29	2022_dataset
+118	aP	Male	Not Hispanic or Latino	Asian	1998-01-01	2022-01-24	2022_dataset

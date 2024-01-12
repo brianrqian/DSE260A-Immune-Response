@@ -1,0 +1,61 @@
+subject_id	infancy_vac	biological_sex	ethnicity	race	year_of_birth	date_of_boost	dataset
+1	wP	Female	Not Hispanic or Latino	White	1986-01-01	2016-09-12	2020_dataset
+2	wP	Female	Not Hispanic or Latino	White	1968-01-01	2019-01-28	2020_dataset
+3	wP	Female	Unknown	White	1983-01-01	2016-10-10	2020_dataset
+4	wP	Male	Not Hispanic or Latino	Asian	1988-01-01	2016-08-29	2020_dataset
+5	wP	Male	Not Hispanic or Latino	Asian	1991-01-01	2016-08-29	2020_dataset
+6	wP	Female	Not Hispanic or Latino	White	1988-01-01	2016-10-10	2020_dataset
+7	wP	Female	Hispanic or Latino	More Than One Race	1981-01-01	2016-11-07	2020_dataset
+8	wP	Female	Not Hispanic or Latino	White	1985-01-01	2019-02-25	2020_dataset
+9	aP	Male	Not Hispanic or Latino	Asian	1996-01-01	2016-07-25	2020_dataset
+10	wP	Female	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset
+11	wP	Female	Hispanic or Latino	Unknown or Not Reported	1986-01-01	2016-08-29	2020_dataset
+12	wP	Male	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset
+13	aP	Male	Not Hispanic or Latino	White	1997-01-01	2016-07-25	2020_dataset
+14	wP	Male	Not Hispanic or Latino	White	1993-01-01	2016-08-15	2020_dataset
+15	wP	Male	Not Hispanic or Latino	Asian	1989-01-01	2016-08-15	2020_dataset
+16	wP	Female	Hispanic or Latino	Unknown or Not Reported	1987-01-01	2016-07-25	2020_dataset
+17	wP	Female	Hispanic or Latino	White	1980-01-01	2016-09-12	2020_dataset
+18	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2016-08-29	2020_dataset
+19	wP	Male	Not Hispanic or Latino	Asian	1994-01-01	2016-09-26	2020_dataset
+20	wP	Female	Not Hispanic or Latino	White	1981-01-01	2016-08-29	2020_dataset
+21	wP	Male	Not Hispanic or Latino	White	1983-01-01	2016-08-29	2020_dataset
+22	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-08-29	2020_dataset
+23	wP	Female	Not Hispanic or Latino	White	1991-01-01	2016-09-26	2020_dataset
+24	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2016-09-13	2020_dataset
+25	wP	Female	Not Hispanic or Latino	Black or African American	1988-01-01	2016-09-13	2020_dataset
+26	wP	Female	Hispanic or Latino	Unknown or Not Reported	1983-01-01	2016-09-26	2020_dataset
+27	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-09-26	2020_dataset
+28	wP	Male	Unknown	Unknown or Not Reported	1982-01-01	2016-09-26	2020_dataset
+29	aP	Male	Hispanic or Latino	White	1997-01-01	2016-09-26	2020_dataset
+30	wP	Female	Hispanic or Latino	White	1988-01-01	2016-09-26	2020_dataset
+31	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2016-09-26	2020_dataset
+32	aP	Male	Not Hispanic or Latino	Native Hawaiian or Other Pacific Islander	1997-01-01	2016-10-24	2020_dataset
+33	wP	Male	Hispanic or Latino	More Than One Race	1990-01-01	2016-10-10	2020_dataset
+34	wP	Female	Hispanic or Latino	Unknown or Not Reported	1983-01-01	2016-10-24	2020_dataset
+35	wP	Male	Unknown	White	1991-01-01	2016-10-10	2020_dataset
+36	aP	Female	Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset
+37	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset
+38	aP	Female	Not Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset
+39	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-10-24	2020_dataset
+40	wP	Female	Not Hispanic or Latino	Asian	1994-01-01	2016-10-24	2020_dataset
+41	wP	Male	Not Hispanic or Latino	White	1985-01-01	2016-11-07	2020_dataset
+42	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-07	2020_dataset
+43	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset
+44	aP	Female	Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset
+45	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-28	2020_dataset
+46	aP	Female	Not Hispanic or Latino	Unknown or Not Reported	1998-01-01	2016-11-07	2020_dataset
+47	aP	Female	Not Hispanic or Latino	White	1996-01-01	2016-11-28	2020_dataset
+48	aP	Female	Not Hispanic or Latino	White	1998-01-01	2017-01-17	2020_dataset
+49	aP	Female	Not Hispanic or Latino	White	1997-01-01	2017-01-17	2020_dataset
+50	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-28	2020_dataset
+51	aP	Male	Not Hispanic or Latino	White	1997-01-01	2016-11-28	2020_dataset
+52	aP	Male	Not Hispanic or Latino	More Than One Race	1998-01-01	2017-01-03	2020_dataset
+53	aP	Female	Hispanic or Latino	Unknown or Not Reported	1998-01-01	2017-01-03	2020_dataset
+54	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset
+55	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset
+56	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-30	2020_dataset
+57	aP	Female	Not Hispanic or Latino	Asian	1996-01-01	2017-01-30	2020_dataset
+58	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2017-01-30	2020_dataset
+59	aP	Female	Hispanic or Latino	More Than One Race	1997-01-01	2017-01-30	2020_dataset
+60	aP	Male	Hispanic or Latino	White	1997-01-01	2017-01-30	2020_dataset
