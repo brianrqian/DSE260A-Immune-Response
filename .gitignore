@@ -1,0 +1,7 @@
+.virtual_documents/
+
+.DS_Store
+
+data/* 
+
+__pycache__/
