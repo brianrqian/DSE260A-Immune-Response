@@ -1,4 +1,7 @@
 import requests
+import csv
+from io import StringIO
+import pandas as pd
 import os
 
 api_version = '4_1' # latest version, should be updated as API changes
@@ -20,8 +23,31 @@ def create_subdirectory(subdirectory='data'):
         for filename in os.listdir(directory_path):
             os.remove(os.path.join(directory_path, filename))
 
+def find_subjects_in_year(year='2020'):
+    """Find all subjects ID in a given year. Also, Write filtered CSV contents."""
+    subject_endpoint = f'/subject?dataset=eq.{year}_dataset'
+    filtered_df = fetch_data(subject_endpoint)
+    write_data_to_csv(filtered_df, f'{year}BD_subject.csv')
+    df = pd.read_csv(StringIO(filtered_df))
+    subject_ids = pd.Series(df['subject_id'])
+
+    return subject_ids 
+
+def filter_data_by_subjects(data, subjects):
+    df = pd.read_csv(data)
+    filtered_df = df[df['subject_id'].isin(subjects)]
+    return filtered_df
+
+def find_specimens_in_year(subjects, year='2020'):
+    specimen = fetch_data('specimen')
+    filtered_df = filter_data_by_subjects(StringIO(specimen), subjects)
+    write_data_to_csv(filtered_df.to_csv(), f'{year}BD_specimen.csv')
+    specimen_ids = pd.Series(filtered_df['specimen_id'])
+    return specimen_ids
+
+
 def write_data_to_csv(text, filename):
-    """Write the collected data to a JSON file."""
+    """Write the collected data to a CSV file."""
     path = f'data/{filename}'
     try:
         with open(path, 'w', encoding='utf-8') as file:
@@ -41,9 +67,12 @@ def fetch_data(endpoint=''):
     if response.status_code != 200: 
         print(f"Failed to fetch data: {response.status_code}: {response.text}")
         response.raise_for_status()
-    else:
-        filename = f"{endpoint.replace('/','')}.csv"
-        write_data_to_csv(response.text, filename)
+
+    return response.text
+    
+
+    # filename = f"{endpoint.replace('/','')}.csv"
+    # write_data_to_csv(response.text, filename)
 
 
 def fetch_all_data(endpoints):
@@ -52,64 +81,30 @@ def fetch_all_data(endpoints):
         print(f"Fetching data from {endpoint}")
         data = fetch_data(endpoint)
 
-
-def fetch_and_write_data_in_chunks(endpoint=''):
-    """Fetch data from a single API endpoint with pagination."""
-
-    current_url = f'{base_url}/{endpoint}'
-
-    range_start = 0
-    range_step = 5000 
-    range_end = range_start + range_step - 1
-
-    filename = f"{endpoint.replace('/', '')}.csv"
-    path = f'data/{filename}'
-
-    with open(path, 'wb') as file:
-        while True:
-            chunked_headers = {
-                'Accept': 'text/csv',
-                'Range': f'{range_start}-{range_end}'
-            }
-            response = requests.get(current_url, headers=chunked_headers)
-
-            if response.status_code == 200:
-                if not response.content.strip() or len(response.content.splitlines()) < range_step:
-                    print("Reached the end of the data.")
-                    break
-
-                file.write(response.content)
-                range_start += range_step
-                range_end = range_start + range_step - 1
-            else:
-                print(f"Failed to fetch data: {response.status_code}: {response.text}")
-                break 
-
-    print(f"Data successfully written to {filename}")
-
-
-def find_subject_years(year='2020'):
-    """Find all subjects that were tested in a given year."""
-    subject_endpoint = f'{base_url}/subject?dataset=eq.{year}_dataset'
-
 def main():
     create_subdirectory()
 
-    metadata_endpoints = ['/',
-                          '/gene',
-                          '/transcript',
-                          '/protein',
-                          '/cell_type']
+    # metadata_endpoints = ['/',
+    #                       '/gene',
+    #                       '/transcript',
+    #                       '/protein',
+    #                       '/cell_type']
 
     data_endpoints = ['/pbmc_cell_frequency',
                       '/plasma_ab_titer',
                       '/plasma_cytokine_concentration',
-                      '/specimen',
-                      '/subject',
                       '/pbmc_gene_expression?versioned_ensembl_gene_id=eq.ENSG00000277632.1'
                       ]
 
-    fetch_all_data(data_endpoints)
+    # years = [2020, 2021, 2022] 
+    subjects = find_subjects_in_year();
+    specimens = find_specimens_in_year(subjects);
+    print(specimens)
+
+    # fetch_all_data(data_endpoints)
+
+
+    
 
 if __name__ == "__main__":
     main()
