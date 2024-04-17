@@ -29,7 +29,7 @@ def find_subjects_in_year(year="2020"):
     """Find all subjects ID in a given year. Also, Write filtered CSV contents."""
     subject_endpoint = f"/subject?dataset=eq.{year}_dataset"
     filtered_df = fetch_data(subject_endpoint)
-    write_data_to_csv(filtered_df, f"{year}BD_subject.csv")
+    write_data_to_csv(filtered_df, f"{year}_subject.csv")
     df = pd.read_csv(StringIO(filtered_df))
     subject_ids = pd.Series(df["subject_id"])
 
@@ -48,6 +48,11 @@ def find_specimens_in_year(subjects, year="2020"):
     write_data_to_csv(filtered_df.to_csv(), f"{year}BD_specimen.csv")
     specimen_ids = pd.Series(filtered_df["specimen_id"])
     return specimen_ids
+
+
+def filter_data_by_specimens(data, specimens):
+    filtered_df = data[data["specimen_id"].isin(specimens)]
+    return filtered_df
 
 
 def write_data_to_csv(text, filename):
@@ -74,15 +79,20 @@ def fetch_data(endpoint=""):
 
     return response.text
 
-    # filename = f"{endpoint.replace('/','')}.csv"
-    # write_data_to_csv(response.text, filename)
 
-
-def fetch_all_data(endpoints):
+def fetch_all_data(endpoints, specimens, year="2020"):
     """Fetch data from a list of API endpoints."""
     for endpoint in endpoints:
         print(f"Fetching data from {endpoint}")
         data = fetch_data(endpoint)
+        df = pd.read_csv(StringIO(data))
+
+        if "specimen_id" not in df.columns:
+            raise Exception("specimen_id column not found")
+
+        filtered_df = filter_data_by_specimens(df, specimens)
+        filename = f"{year}_{endpoint.replace('/','')}.csv"
+        write_data_to_csv(filtered_df.to_csv(), filename)
 
 
 def main():
@@ -104,9 +114,8 @@ def main():
     # years = [2020, 2021, 2022]
     subjects = find_subjects_in_year()
     specimens = find_specimens_in_year(subjects)
-    print(specimens)
 
-    # fetch_all_data(data_endpoints)
+    fetch_all_data(data_endpoints, specimens)
 
 
 if __name__ == "__main__":
