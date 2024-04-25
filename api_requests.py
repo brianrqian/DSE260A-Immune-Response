@@ -111,11 +111,12 @@ def main():
         "/pbmc_gene_expression?versioned_ensembl_gene_id=eq.ENSG00000277632.1",
     ]
 
-    # years = [2020, 2021, 2022]
-    subjects = find_subjects_in_year()
-    specimens = find_specimens_in_year(subjects)
+    years = [2020, 2021, 2022]
+    for year in years:
+        subjects = find_subjects_in_year(year)
+        specimens = find_specimens_in_year(subjects, year)
+        fetch_all_data(data_endpoints, specimens, year)
 
-    fetch_all_data(data_endpoints, specimens)
 
 
 if __name__ == "__main__":
