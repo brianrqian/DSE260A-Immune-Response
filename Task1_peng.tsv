@@ -1,6 +1,6 @@
 subject_id	Age	Biological Sex at Birth	Vaccine Priming Status	1.1) IgG-PT-D14-titer-Rank	1.2) IgG-PT-D14-FC-Rank	2.1) Monocytes-D1-Rank	2.2) Monocytes-D1-FC-Rank	3.1) CCL3-D3-Rank	3.2) CCL3-D3-FC-Rank
-97	35	Male	wP	9	21				
-98	28	Female	wP	4	21				
+97	35	Male	wP	11	21				
+98	28	Female	wP	5	21				
 99	22	Female	aP	3	21				
 100	20	Female	aP	6	21				
 101	18	Male	aP	14	21				
@@ -11,12 +11,12 @@ subject_id	Age	Biological Sex at Birth	Vaccine Priming Status	1.1) IgG-PT-D14-ti
 106	25	Female	aP	20	21				
 107	23	Female	aP	21	2				
 108	26	Female	wP	2	21				
-109	32	Female	wP	17	21				
-110	24	Female	aP	18	21				
+109	32	Female	wP	18	21				
+110	24	Female	aP	17	21				
 111	25	Male	wP	10	21				
-112	25	Male	aP	11	21				
+112	25	Male	aP	9	21				
 114	31	Male	wP	19	2				
-115	19	Female	aP	5	21				
+115	19	Female	aP	4	21				
 116	21	Male	aP	12	21				
 117	27	Female	aP	1	21				
 118	24	Male	aP	8	21				
