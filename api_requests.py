@@ -45,7 +45,7 @@ def filter_data_by_subjects(data, subjects):
 def find_specimens_in_year(subjects, year="2020"):
     specimen = fetch_data("specimen")
     filtered_df = filter_data_by_subjects(StringIO(specimen), subjects)
-    write_data_to_csv(filtered_df.to_csv(), f"{year}BD_specimen.csv")
+    write_data_to_csv(filtered_df.to_csv(), f"{year}_BD_specimen.csv")
     specimen_ids = pd.Series(filtered_df["specimen_id"])
     return specimen_ids
 
